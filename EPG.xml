@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <channel id="IL: HOT HUMOR HD ◉">
+    <channel id="TS">
         <display-name>IL: HOT HUMOR HD ◉</display-name>
+        <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6079.jpg?40101" />
+        <group-title>IL| HEBREW VIP HD/4K</group-title>
     </channel>
 
-    <programme start="20240824000000 +0000" stop="20240827000000 +0000" channel="hot_humor_hd">
+    <programme start="20240824000000 +0000" stop="20240827000000 +0000" channel="TS">
         <title>Marathon Comedy Show</title>
         <desc>A continuous stream of the best comedy shows and stand-up performances from around the world.</desc>
         <category>Comedy</category>

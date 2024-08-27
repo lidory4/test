@@ -11,4 +11,10 @@
         <desc lang="ru">בידור. עדי אשכנזי יוצאת לטיול של אחרי אחרי הצבא. עם שתי צעירות נוספות היא מגיעה לניו דלהי הדביקה, פוגשת בעיירה קאסול את הישראלים המעושנים, מתלבטת אם לעשן גם ומחפשת את עצמה במסיבת טראנס. כ עב.</desc>
     </programme>
 
+        <programme start="20240824000000 +0000" stop="20240827000000 +0000" channel="TS">
+        <title>Marathon Comedy Show</title>
+        <desc>A continuous stream of the best comedy shows and stand-up performances from around the world.</desc>
+        <category>Comedy</category>
+    </programme>
+
 </tv>

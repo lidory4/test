@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
     <channel id="IL: HOT HUMOR HD ◉">
-        <display-name>IL HOT HUMOR HD ◉</display-name>
+        <display-name>IL: HOT HUMOR HD ◉</display-name>
     </channel>
 
     <programme start="20240824000000 +0000" stop="20240827000000 +0000" channel="hot_humor_hd">

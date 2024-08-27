@@ -6,44 +6,1208 @@
         <group-title>IL| HEBREW VIP HD/4K</group-title>
     </channel>
 
-    <programme start="20240824000000 +0000" stop="20240827000000 +0000" channel="TS">
-        <title>Marathon Comedy Show</title>
-        <desc>A continuous stream of the best comedy shows and stand-up performances from around the world.</desc>
-        <category>Comedy</category>
-    </programme>
-
-    <!-- Existing program entries -->
-    <!-- ... -->
-
-    <!-- New Program Entries for "zoom-il" Channel -->
-    <programme start="20240824030000 +0300" stop="20240824032300 +0300" channel="zoom-il">
-        <title lang="ru">כאן גרים בכיף 2 - 16. התנהגות</title>
-        <desc lang="ru">ילדים. 16. התנהגות: הבלגן חוגג בחדרים, אי אפשר להבין מילה ממה שהבנים אומרים, וכולם מצפצפים על אימא. ענת לא מתייאשת, היא לומדת לדבר קצר ומנסה לחנך את הבנים בדרכים מקוריות. כ' עב.</desc>
-    </programme>
-
-    <programme start="20240824032300 +0300" stop="20240824034800 +0300" channel="zoom-il">
-        <title lang="ru">כאן גרים בכיף 2 - 17. שורשים</title>
-        <desc lang="ru">ילדים. 17. שורשים: עמרי צריך להכין עבודת שורשים, וכשיהלי לא מוכן לעשות את העבודה במקומו, עמרי מבשר לו שהוא מאומץ. כ' עב.</desc>
-    </programme>
-
-    <programme start="20240824034800 +0300" stop="20240824041200 +0300" channel="zoom-il">
-        <title lang="ru">כאן גרים בכיף 2 - 18. רילוקיישן</title>
-        <desc lang="ru">ילדים. 18. רילוקיישן: ענת מקבלת הצעה לרילוקיישן בצ'ילה. היא מראה לכולם את הוילה שהם עומדים לקבל. יהלי מתלהב ומתחיל ללמוד ספרדית. כ' עב.</desc>
-    </programme>
-
-    <programme start="20240824041200 +0300" stop="20240824043600 +0300" channel="zoom-il">
-        <title lang="ru">כאן גרים בכיף 2 - 19. בחזרה לבית הספר</title>
-        <desc lang="ru">ילדים. 19. בחזרה לבית הספר: יהלי עולה לכיתה א', שאר הילדים מתקשים להתארגן לשנת הלימודים החדשה. ענת סובלת בקניות הספרים והמחברות לשנה החדשה. כ' עב.</desc>
-    </programme>
-
-    <programme start="20240824043600 +0300" stop="20240824050100 +0300" channel="zoom-il">
-        <title lang="ru">כאן גרים בכיף 2 - 20. יום כיפור</title>
-        <desc lang="ru">ילדים. 20. יום כיפור: עמרי מנסה לעודד אותו לאכול. שלי וענת מוצאות דרכים טבעיות לעבור את הצום, והילדים מנצלים את בקשת הסליחה כדי להתחנף לסבא וסבתא. כ' עב.</desc>
-    </programme>
-
-    <programme start="20240824050100 +0300" stop="20240824052500 +0300" channel="zoom-il">
-        <title lang="ru">כאן גרים בכיף 2 - 21. משברים</title>
-        <desc lang="ru">ילדים. 21. משברים: שבוע קשה עובר על משפחת שלו. ענת נאבקת בניילון הנצמד, דניאל בקריזה על אלכס, קובי רב עם אשתו ויאיר נרשם לקורס טיס בלי להגיד לענת. דניאל נפרד מאלכס, דימא נפרד מדניאל, וכו'. כ' עב.</desc>
-    </programme>
-
-</tv>
+<programme start="20240822190800 +0300" stop="20240822193200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">כאן גרים בכיף 2</title>
+</programme>
+<programme start="20240822193200 +0300" stop="20240822200900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ארץ נהדרת</title>
+</programme>
+<programme start="20240822200900 +0300" stop="20240822205100 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">מה זה השטויות האלה? 4</title>
+</programme>
+<programme start="20240822205100 +0300" stop="20240822212800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">צומת מילר 3</title>
+</programme>
+<programme start="20240822212800 +0300" stop="20240822220500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">צומת מילר 3</title>
+</programme>
+<programme start="20240822220500 +0300" stop="20240822223000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">נבסו 2</title>
+</programme>
+<programme start="20240822223000 +0300" stop="20240822225600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">נבסו 2</title>
+</programme>
+<programme start="20240822225600 +0300" stop="20240822232000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">רמזור</title>
+</programme>
+<programme start="20240822232000 +0300" stop="20240822234700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">רמזור 2</title>
+</programme>
+<programme start="20240822234700 +0300" stop="20240823002900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-90</title>
+</programme>
+<programme start="20240823001500 +0300" stop="20240823004700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80 עונה 4</title>
+</programme>
+<programme start="20240823002900 +0300" stop="20240823011100 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-90</title>
+</programme>
+<programme start="20240823011100 +0300" stop="20240823013800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">חברות 3</title>
+</programme>
+<programme start="20240823013800 +0300" stop="20240823020400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">חברות 4</title>
+</programme>
+<programme start="20240823020400 +0300" stop="20240823024100 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">צומת מילר 3</title>
+</programme>
+<programme start="20240823024100 +0300" stop="20240823024100 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">צומת מילר 3</title>
+</programme>
+<programme start="20240823031500 +0300" stop="20240823034700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80 עונה 4</title>
+</programme>
+<programme start="20240823034700 +0300" stop="20240823041400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">רמזור 2</title>
+</programme>
+<programme start="20240823041400 +0300" stop="20240823044100 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">רמזור 2</title>
+</programme>
+<programme start="20240823044100 +0300" stop="20240823050300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">אחד העם 101</title>
+</programme>
+<programme start="20240823050300 +0300" stop="20240823052900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">הישראלים</title>
+</programme>
+<programme start="20240823052900 +0300" stop="20240823055000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">דובדבני וקובץ</title>
+</programme>
+<programme start="20240823055000 +0300" stop="20240823062100 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">יום האם</title>
+</programme>
+<programme start="20240823062100 +0300" stop="20240823064700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שחקן זר</title>
+</programme>
+<programme start="20240823064700 +0300" stop="20240823071200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל)</title>
+</programme>
+<programme start="20240823071200 +0300" stop="20240823073600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל)</title>
+</programme>
+<programme start="20240823073600 +0300" stop="20240823080000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">הנחלה</title>
+</programme>
+<programme start="20240823080000 +0300" stop="20240823082500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">מה שבע</title>
+</programme>
+<programme start="20240823082500 +0300" stop="20240823084700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">עם סגולה</title>
+</programme>
+<programme start="20240823084700 +0300" stop="20240823091100 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל)</title>
+</programme>
+<programme start="20240823091100 +0300" stop="20240823093700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל)</title>
+</programme>
+<programme start="20240823093700 +0300" stop="20240823100000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">סברי מרנן 2</title>
+</programme>
+<programme start="20240823100000 +0300" stop="20240823102400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">סברי מרנן 2</title>
+</programme>
+<programme start="20240823102400 +0300" stop="20240823112700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">מה זה השטויות האלה? 2</title>
+</programme>
+<programme start="20240823112700 +0300" stop="20240823115500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80</title>
+</programme>
+<programme start="20240823115500 +0300" stop="20240823122300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80</title>
+</programme>
+<programme start="20240823122300 +0300" stop="20240823125100 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80</title>
+</programme>
+<programme start="20240823125100 +0300" stop="20240823132000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80</title>
+</programme>
+<programme start="20240823132000 +0300" stop="20240823134900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80</title>
+</programme>
+<programme start="20240823134900 +0300" stop="20240823141700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80</title>
+</programme>
+<programme start="20240823141700 +0300" stop="20240823144700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80</title>
+</programme>
+<programme start="20240823144700 +0300" stop="20240823151400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80</title>
+</programme>
+<programme start="20240823151400 +0300" stop="20240823154400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80</title>
+</programme>
+<programme start="20240823154400 +0300" stop="20240823161000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80</title>
+</programme>
+<programme start="20240823161000 +0300" stop="20240823163900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80</title>
+</programme>
+<programme start="20240823163900 +0300" stop="20240823171300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80</title>
+</programme>
+<programme start="20240823171300 +0300" stop="20240823174500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80 עונה 2</title>
+</programme>
+<programme start="20240823174500 +0300" stop="20240823181700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80 עונה 2</title>
+</programme>
+<programme start="20240823181700 +0300" stop="20240823184800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80 עונה 2</title>
+</programme>
+<programme start="20240823184800 +0300" stop="20240823191400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80 עונה 2</title>
+</programme>
+<programme start="20240823191400 +0300" stop="20240823194300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80 עונה 2</title>
+</programme>
+<programme start="20240823194300 +0300" stop="20240823201400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80 עונה 2</title>
+</programme>
+<programme start="20240823201400 +0300" stop="20240823204400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80 עונה 2</title>
+</programme>
+<programme start="20240823204400 +0300" stop="20240823211500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80 עונה 2</title>
+</programme>
+<programme start="20240823211500 +0300" stop="20240823214700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80 עונה 2</title>
+</programme>
+<programme start="20240823214700 +0300" stop="20240823221400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80 עונה 2</title>
+</programme>
+<programme start="20240823221400 +0300" stop="20240823224300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80 עונה 2</title>
+</programme>
+<programme start="20240823224300 +0300" stop="20240823231400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80 עונה 2</title>
+</programme>
+<programme start="20240823231400 +0300" stop="20240823234900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80 עונה 2</title>
+</programme>
+<programme start="20240823234900 +0300" stop="20240824001800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80 עונה 3</title>
+</programme>
+<programme start="20240824001300 +0300" stop="20240824004400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80 עונה 3</title>
+</programme>
+<programme start="20240824001800 +0300" stop="20240824004800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80 עונה 3</title>
+</programme>
+<programme start="20240824004800 +0300" stop="20240824011700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80 עונה 3</title>
+</programme>
+<programme start="20240824011700 +0300" stop="20240824014600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80 עונה 3</title>
+</programme>
+<programme start="20240824014600 +0300" stop="20240824021800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80 עונה 3</title>
+</programme>
+<programme start="20240824021800 +0300" stop="20240824024600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80 עונה 3</title>
+</programme>
+<programme start="20240824024600 +0300" stop="20240824024600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-80 עונה 3</title>
+</programme>
+<programme start="20240824031400 +0300" stop="20240824034900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 2 - ליל הסדר</title>
+    <desc lang="ru">קומי. בצל ההכנות לליל הסדר, שלום מקליט הופעת בידור על קלטת בכדי לפרוץ לתודעה. ויטלי ושליקו נלחמים ביניהם על שם מי ייקרא הנכד החדש בעוד חנה מוצאת אהבה חדשה ומפתיעה. כ' עב'.</desc>
+</programme>
+<programme start="20240824034900 +0300" stop="20240824041800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 3 - האם שלום יחזור בתשובה?</title>
+    <desc lang="ru">ההתקרבות של שלום אל הדת, עם החלטתו של פרוספר לעבור דירה ועם הקרב על ניהול המכולת של ממוקה. כ' עב'.</desc>
+</programme>
+<programme start="20240824041800 +0300" stop="20240824044800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 3 - תצא בחוץ</title>
+    <desc lang="ru">כולם מנסים לכופף כפיות, הרב מאיר אוחנה מנסה להוציא את מורדי מהבית ושלום ומני מנסים לגרום לשעון הקוקיה להפסיק את צלצולו המטריד. כ' עב'.</desc>
+</programme>
+<programme start="20240824044800 +0300" stop="20240824051700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 3 - מבצע משה</title>
+    <desc lang="ru">מה קרה כשממוקה ראה עולה אתיופי לראשונה בחייו? כ' עב'.</desc>
+</programme>
+<programme start="20240824051700 +0300" stop="20240824054600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 3 - מלחמת כבלים</title>
+    <desc lang="ru">מהפך בתחום הכבלים הפיראטיים של השכונה ושלום ממשיך להיאבק בדרכו לקריירה. כ' עב'.</desc>
+</programme>
+<programme start="20240824054600 +0300" stop="20240824061800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 3 - כי תבוא</title>
+    <desc lang="ru">מה קורה כשמרסל מסרב לעלות לפרשת &quot;כי תבוא\.</desc>
+</programme>
+<programme start="20240824060600 +0300" stop="20240824063000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל) - הקשר הצרפתי</title>
+    <desc lang="ru">שכן חדש ושרמנטי עובר לגור בבניין ושובה את רותי בקסמיו, אך העניינים מתחילים להסתבך כשהוא מנסה להתחיל עם דליה ורותי לא מאמינה שזה קרה. וגם - מה קורה כשריבה ושוש מחליטות לשתף פעולה? כ' עב'.</desc>
+</programme>
+<programme start="20240824063000 +0300" stop="20240824065900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 4 - אהבה ממבט שני</title>
+    <desc lang="ru">משפחת אסייג מתמקמת בדירה החדשה. שלום מתחיל לעבוד ברפת הקיבוץ השכן ומתאהב בקיבוצניקית יפהפייה למורת רוחם של הוריו, פרוספר מנסה לשדך לפרדי בת זוג, מה שמוביל לקומדיית טעויות מטורפת.</desc>
+</programme>
+<programme start="20240824065900 +0300" stop="20240824072800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 4 - הדשא של השכן</title>
+    <desc lang="ru">פרוספר ומרסל נאבקים ביניהם בחירוף נפש בתחרות הבניין המטופח. שלום והחבורה מהשכונה מחפשים דרכים יצירתיות להיכנס למועדון הפלדיום בחיפה, שממדר ומונע כניסה לתושבי טירת כרמל. כ' עב'.</desc>
+</programme>
+<programme start="20240824072800 +0300" stop="20240824075700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 4 - עיתוניש</title>
+    <desc lang="ru">שלום מקבל צו גיוס לתאריך קרוב והופך עולמות בכדי לדחות הגיוס ולהספיק את הבחינות ללהקה הצבאית. פרוספר מקבל הצעה מפתה לשמש משגיח כשרות מטעם העירייה, וגידי מקבל משרה כעיתונאי תחקירן בעיתון המקומי. כ' עב'.</desc>
+</programme>
+<programme start="20240824075700 +0300" stop="20240824075900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 4 - עבודת שורשים</title>
+    <desc lang="ru">ההשתתפות של שלום במופע הענק של להקת הצברים מוטלת בספק גדול בשל כאבי שיניים חזקים והתמכרות לעראק. קוקו מנסה בכל דרך להשיג הלוואה בכדי לקנות רכב דפוק בהזדמנות, בעוד פרוספר מנהיג בסלון הדירה שיעורי תורה.</desc>
+</programme>
+<programme start="20240824075900 +0300" stop="20240824082900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 - חלום ילדות</title>
+    <desc lang="ru">חלום ילדות: שלום חולם להיות בדרן ופרוספר חולם להיות חייט. מי יגשים את חלומו? כ' עב'.</desc>
+</programme>
+<programme start="20240824082900 +0300" stop="20240824085900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 4 - שערי ועד טוב</title>
+    <desc lang="ru">פרוספר פוצח בקמפיין לראשות הועד ומגלה את הלכלוך שבפוליטיקה ושבמרסל. בינתיים, מכת כינים פושטת על דיירי הבניין ולא פוסחת על אסייג, מה שמטריף לחלוטין את ליליאן.כ' עב'.</desc>
+</programme>
+<programme start="20240824085900 +0300" stop="20240824093100 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 4 - התק''ם להניח ת</title>
+    <desc lang="ru">פרוספר המיוסר מלמד לבר מצווה את נועם, אחיה של גליה, שלום מתמכר למשחק ''עברייני'', חלבי נטרף מהחשקים של חיה ההריונית שמתזזת אותו הלוך ושוב, ואילו מרסל הופך עולמות בכדי למצוא את מי שגנב לו את המחשב.כ' עב.</desc>
+</programme>
+<programme start="20240824093100 +0300" stop="20240824100400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 4 - הקשר הצרפתי</title>
+    <desc lang="ru">הדוד עמרן עושה עליה ממרסיי יחד עם ביתו קלודין היפהפייה (מירי בוהדנה) שמשגעת את השכונה.מורדי שחולם לרכוש את ליבה של קלודין לוקח שיעורי צרפתית אצל מרסל ואילו פרוספר מסדר לקלודין עבודה אצל פיטוסי.כ' עב'.</desc>
+</programme>
+<programme start="20240824100400 +0300" stop="20240824103300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 4 - חגורה שחורה</title>
+    <desc lang="ru">בעוד קלודין מתמודדת מול החיזורים של פיטוסי, פרוספר מסדר לאביה עמרן עבודה כעוזר מאמן ג'ודו במתנ''ס המקומי, שלום נערך למבחנים ללהקה הצבאית ומתחיל ללמוד פסנתר אצל נטליה השכנה הרוסיה.כ' עב'.</desc>
+</programme>
+<programme start="20240824103300 +0300" stop="20240824110300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 4 - הצוואה</title>
+    <desc lang="ru">רבי מאיר נקלע לבעיית בריאות חמורה ומסכנת חיים, מה שמוביל למלחמת ירושה מלוכלכת בין מרסל אחיו לבין שני ילדיו. בינתיים, שלום ומני פותחים דוכן למכירת ספרים משומשים לקראת פתיחת שנת הלימודים. כ' עב'.</desc>
+</programme>
+<programme start="20240824110300 +0300" stop="20240824113600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 4 - צנזורה</title>
+    <desc lang="ru">זאזה החלפן מתגלה כזמר גדול ומחליט לייסד להקת שמחות גרוזינית ומצרף אליה את שלום כקלידן. חלבי המתחזק בדת מחליט לבקשת פרוספר והרבנים להקרין בכבלים רק תכנים יהודיים, מה שמוביל למרד צרכנים נגדו.כ' עב'.</desc>
+</programme>
+<programme start="20240824113600 +0300" stop="20240824120900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 4 - בדיקת ינשוף</title>
+    <desc lang="ru">תכונה גדולה בקרב תושבי טירת כרמל לקראת ביקורו של ה''ינשוף'', מקובל גדול משושלת אבוחצירה. בין הממתינים לברכת המקובל נמצאים אילנה וגידי שלא מצליחים להיכנס להריון. כ' עב'.</desc>
+</programme>
+<programme start="20240824120900 +0300" stop="20240824124200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 4 - הימור מסוכן</title>
+    <desc lang="ru">פרוספר נערך להרצאה על מורשת יהדות מרוקו בכיתה של ליאור בעוד שטמנו, השכן החדש בשכונה מתמכר קשות לחיש-גד בדוכן הפיס של סיני ובבר.כ' עב'.</desc>
+</programme>
+<programme start="20240824124200 +0300" stop="20240824131500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 4 - זוהר המלך</title>
+    <desc lang="ru">חלבי מתקשה להשלים עם מותו הפתאומי של המלך זוהר ארגוב ומחליט לשבת עליו שבעה בעוד שסיני מנסה לגייס תומכים לתפקיד בעירייה.כ' עב'.</desc>
+</programme>
+<programme start="20240824131500 +0300" stop="20240824134600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 4 - אזעקת שווא</title>
+    <desc lang="ru">הדוד מרדוש הידעוני מגוייס בצו 8 על ידי לילאן המקווה שהוא יכול לחזות עבורה את מספרי הלוטו. גבי בונה המצבות נכנס לעימות חזיתי מול מתפללי בית הכנסת המונעים ממנו את קניית פתיחת הפרנסה. כ' עב'.</desc>
+</programme>
+<programme start="20240824134600 +0300" stop="20240824141600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 4 - אין מוצא</title>
+    <desc lang="ru">במסגרת המתיחה השנתית של 1 באפריל שלום ''מארגן'' מפגש מעריצים במתנ''ס עם הזמר הפופולרי אדם ויוצר מהומה. פרוספר מתלווה לטיול השנתי של ליאור ומתעמת עם איג'יקל. כ' עב'.</desc>
+</programme>
+<programme start="20240824141600 +0300" stop="20240824145200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 4 - היפה והחיה</title>
+    <desc lang="ru">קלודין היפה נגררת לרומן אסור עם פנסו העבריין האימתני מהשוק ומזעזעת את הוריה ואת פרוספר. להקת הצברים מתעתדת לטוס להופעה בחו''ל בתאריך בעייתי, מה שגורם לשלום להסתבך עם מאפיונר גרוזיני זעפן. כ' עב'.</desc>
+</programme>
+<programme start="20240824145200 +0300" stop="20240824152000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 4 - מכת פלולות</title>
+    <desc lang="ru">הדוד מרדוש שוב מוזעק אל אסייג, והפעם הוא מגיע למצוא מזור למגפת יבלות (פלולות) מוזרה שתקפה את דיירי הבניין. גידי מתמנה לספרן בספריה העירונית ומפעיל סנקציות נגד משאילי הספרים. כ' עב'.</desc>
+</programme>
+<programme start="20240824152000 +0300" stop="20240824155000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 4 - איוואן האיום</title>
+    <desc lang="ru">משפט דימניוק משפיע לרעה על נחצ'ה הסבא של גידי, וזה מזמין אותו לכמה ימי התרגעות אצל משפחת אסייג. פרוספר לוקח עליו את צביעת הספסל בחזית הבניין ואוכל מרורים ממוניה ה''יועץ''. כ' עב'.</desc>
+</programme>
+<programme start="20240824155000 +0300" stop="20240824162000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 4 - עיניים שלי</title>
+    <desc lang="ru">מרסל מנצל את מחלת העיניים של פרוספר ודואג למנות את אחיו רבי מאיר לתפקיד החזן. חלבי המתחזק עושה מאמצים כבירים להעביר את ששי לבית ספר דתי, בעוד ממוקה מתמודד מול הקללות שמנחיתה עליו רבקה קורקוס הרבנית.</desc>
+</programme>
+<programme start="20240824162000 +0300" stop="20240824164900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 4 - שירת הסירנה</title>
+    <desc lang="ru">שלום מתנדב למד''א אך מתגלה כהיסטרי. משפחת יושבייב נכנסת לסחרור בעקבות ההתמכרות של ממוקה להרחת טיפקס. כ' עב'.</desc>
+</programme>
+<programme start="20240824164900 +0300" stop="20240824172100 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 4 - טקס החינה</title>
+    <desc lang="ru">פרדי ואניטה מתארסים וליליאן מתכננת לקיים בדירה של משפחת אסייג את טקס החינה למורת רוחו של פרוספר. שלום מתעמת עם ראש העיר לאחר שזה כפה את ביתו על להקת ''הצברים'' כסולנית. כ' עב'.</desc>
+</programme>
+<programme start="20240824172100 +0300" stop="20240824175300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - לא בלי ויצ'ליק</title>
+    <desc lang="ru">פרוספר מקבל ספר תורה עתיק שהתגלגל אליו ממרוקו ומתכנן הכנסה מפוארת. מני מתמכר להימורים בדוכן הקלפים המאולתר של מורדי. כ' עב'.</desc>
+</programme>
+<programme start="20240824175300 +0300" stop="20240824181900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - טירונות</title>
+    <desc lang="ru">אילנה וגידי מתמודדים בחרדה עם רופאת טיפת חלב מלחיצה במיוחד, כאשר שלום שמתגייס לטירונות מסתבך קשות. כ' עב'.</desc>
+</programme>
+<programme start="20240824181900 +0300" stop="20240824184800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - משפחה מיוחדת</title>
+    <desc lang="ru">הבקשה של שלום לחופשה מיוחדת מזמנת לביתו ביקור בלתי נשכח של קצינת התש. כ' עב'.</desc>
+</programme>
+<programme start="20240824184800 +0300" stop="20240824191800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - עוגמת נופש</title>
+    <desc lang="ru">גידי, שהתמנה לאיש מכירות במלון, מארגן למשפחת אסייג נופש בבית מלון בטבריה. כ' עב'.</desc>
+</programme>
+<programme start="20240824191800 +0300" stop="20240824194900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - המועדונית של מ</title>
+    <desc lang="ru">הנופש השכונתי במלון ''פאר'' מקבל תפנית דרמטית לאחר פיטוריו של מורדי ממועדונית הילדים. כ' עב'.</desc>
+</programme>
+<programme start="20240824194900 +0300" stop="20240824202400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - שלום מתקלט במו</title>
+    <desc lang="ru">שלום מקבל הצעה לתקלט במועדון וכולם רוצים להצטרף לחגיגה. איך תיגמר המסיבה אם כל השכונה תגיע? כ' עב'.</desc>
+</programme>
+<programme start="20240824202400 +0300" stop="20240824205500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - ספר השיאים</title>
+    <desc lang="ru">ששי מקבל כמתנת יום הולדת מהדורה של ספר השיאים של גינס וגורם לטירוף בקרב מופרעי השכונה. כ' עב'.</desc>
+</programme>
+<programme start="20240824205500 +0300" stop="20240824212200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - טלפון שבור</title>
+    <desc lang="ru">האחריות על ניקיון המדרגות מביאה את ליליאן לארגן מרד נשים שילמד את הגברים לקח כשהם מחליפים תפקידים ביניהם. כ' עב'.</desc>
+</programme>
+<programme start="20240824212200 +0300" stop="20240824215200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - עסק משותף</title>
+    <desc lang="ru">חלבי שנקלע לחובות כבדים, מחפש אחר משקיע לעסק הכבלים ומתפשר על שותף. כ' עב'.</desc>
+</programme>
+<programme start="20240824215200 +0300" stop="20240824222100 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - כך הולכים השות</title>
+    <desc lang="ru">עונה חמישית לסדרה הקומית המצליחה של שלום אסייג, על משפחה מרוקאית בשנות ה-80 בישראל, יחד עם קשיי המחייה, שכנים, ועוד. כ' עב'.</desc>
+</programme>
+<programme start="20240824222100 +0300" stop="20240824225000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - עלילות בית הקש</title>
+    <desc lang="ru">פרוספר לומד ספרות סת''ם אצל רבי בלישה שמאכיל אותו מרור. כ' עב'.</desc>
+</programme>
+<programme start="20240824225000 +0300" stop="20240824231800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - הדיאטה של פריז</title>
+    <desc lang="ru">מני נכנס למשטר אימונים קדחתני לקראת הגעתו של מומחה לכדורסל המחפש את הכשרון הבא של ישראל. כ' עב'.</desc>
+</programme>
+<programme start="20240824231800 +0300" stop="20240824234800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - המימונה</title>
+    <desc lang="ru">ליליאן נפצעת באצבעה בעיצומן של ההכנות למימונה המסורתית, בעוד מורדי מצידו זומם על אירוח המימונה אצלו. כ' עב'.</desc>
+</programme>
+<programme start="20240824234800 +0300" stop="20240825001900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - מלאת אהבה</title>
+    <desc lang="ru">אירמה מקבלת בשמחה את הצעת האירוסין של פיטוסי. שלום מקים הרכב מוזיקלי המורכב מדיירי בית הקשיש. כ' עב'.</desc>
+</programme>
+<programme start="20240825001900 +0300" stop="20240825004500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - אוטו זבל</title>
+    <desc lang="ru">גניבת הפדיון החודשי של חלבי ופנסו, גורם להם זעם צרוף. קוקו ופרדי מתחילים בעבודה משותפת במשאית זבל. כ' עב'.</desc>
+</programme>
+<programme start="20240825004500 +0300" stop="20240825011400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - מוצא המינים</title>
+    <desc lang="ru">רבי קורקוס ואישתו רבקה, מגרשים את בנם מהבית כשזה מגלה סימני כפירה באמונה. כ' עב'.</desc>
+</programme>
+<programme start="20240825011400 +0300" stop="20240825014400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - מחיר הערק</title>
+    <desc lang="ru">גידי מתמנה כאחראי שיווק ופרסום במפעל ערק ומחפש פרזנטור זול מהשכונה. שלום מתעמת עם השקמיסט בבסיס. כ' עב'.</desc>
+</programme>
+<programme start="20240825014400 +0300" stop="20240825021600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - שערות סבתא</title>
+    <desc lang="ru">בעקבות הסתלקותה הפתאומית של סבתא מיזולדה ממוקה שוקע בתהומות של יגון וצער. כ' עב'.</desc>
+</programme>
+<programme start="20240825021600 +0300" stop="20240825024700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - הסנדק</title>
+    <desc lang="ru">שגעון קלפי חבורת הזבל מגיע לשכונה יחד עם הבן הבכור של פרדי ואניטה. כ' עב'.</desc>
+</programme>
+<programme start="20240825024700 +0300" stop="20240825031900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - שידנא בר-יוחאי</title>
+    <desc lang="ru">פרוספר כבול בנדר לנסיעה לקבר הרשב''י בל''ג בעומר ונתקל בקשיים כשמנסה לארגן הסעה. כ' עב'.</desc>
+</programme>
+<programme start="20240825031900 +0300" stop="20240825034500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - הכנסת הספר</title>
+    <desc lang="ru">גבאי מפרסם את הדירה למכירה וגורם למאבק בין רודפי נדל''ן. פרוספר נתון כולו בארגון ההכנסה החגיגית של ספר התורה. כ' עב'.</desc>
+</programme>
+<programme start="20240825034500 +0300" stop="20240825040800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - פספוסים</title>
+    <desc lang="ru">שמרנו את הכי טוב לסוף! פרק פספוסים שאסור לכם לפספס בחיים עם כל הקטעים הקורעים מכל עונות הסדרה. כ' עב'.</desc>
+</programme>
+<programme start="20240825040800 +0300" stop="20240825043900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - מסיבה בשכונה</title>
+    <desc lang="ru">פרק מיוחד עם כל רגעי העונה של משפחת אסייג האהובה. כ' עב'.</desc>
+</programme>
+<programme start="20240825043900 +0300" stop="20240825051200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - המופע של מורדי</title>
+    <desc lang="ru">מורדי הוא ללא ספק מהדמויות המצחיקות בשנות ה-80, ועכשיו הוא מקבל מופע פרטי משלו. כ' עב'.</desc>
+</programme>
+<programme start="20240825051200 +0300" stop="20240825054300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - ספיישל משפחת י</title>
+    <desc lang="ru">פרק שכל כולו מוקדש למשפחת יושבייב. כ' עב'.</desc>
+</programme>
+<programme start="20240825054300 +0300" stop="20240825061200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - ספיישל משפחת ע</title>
+    <desc lang="ru">מי היחידים שלא הבינו ששנות ה 80 נגמרה? משפחת עובדיה כמובן! מוזמנים לחגיגה אחרונה עם המשפחה הכי דבילית על המסך. כ' עב'.</desc>
+</programme>
+<programme start="20240825061200 +0300" stop="20240825063700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - נפרדים משנות ה</title>
+    <desc lang="ru">ספיישל פרידה עם כל השחקנים על כל הרגעים המצחיקים והמרגשים. כ' עב'.</desc>
+</programme>
+<programme start="20240825063700 +0300" stop="20240825070300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל) עונה 2 - במיטה עם שושנ</title>
+    <desc lang="ru">שוש לוקחת יוזמה ועורכת ארוחת ערב מיוחדת לכבוד המנהל שיורד לחייה של רותי. הערב נגמר באופן בלתי נשכח, ביותר ממובן אחד. ריבה מקימה יחידה מיוחדת להגנה על קשישים ומגייסת יריב קשוח לעזרתה. כ' עב'.</desc>
+</programme>
+<programme start="20240825070300 +0300" stop="20240825072900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל) עונה 2 - ילדת סנדוויץ</title>
+    <desc lang="ru">בזמן שרותי בחו''ל, נחום, בעלה לשעבר, קופץ לביקור, ומגלה התעניינות דווקא בדליה. ריבה ושוש פותחות ביחד עסק ונאלצות להתמודד עם הצד הקשה של עולם העסקים. כ' עב'.</desc>
+</programme>
+<programme start="20240825072900 +0300" stop="20240825075400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל) עונה 2 - על עכברים ונש</title>
+    <desc lang="ru">שני אורחים מגיעים לביקור בבית הבנות - אחייניתה הצעירה ומלאת החיים של דליה, ועכבר רעב. אבל מסתבר שדווקא האורחת שהוזמנה היא זו שלא רצויה בבית. כ' עב'.</desc>
+</programme>
+<programme start="20240825075400 +0300" stop="20240825082100 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל) עונה 2 - החיים יפים</title>
+    <desc lang="ru">דליה נאלצת להתגבר על שני מכשולים קטנים בדרכה לכבוש את ליבו של אוליגרך רוסי עשיר, ושוש מלמדת את רותי כיצד לבצע תיקון אינסטלציה לראשונה בחייה. כ' עב'.</desc>
+</programme>
+<programme start="20240825082100 +0300" stop="20240825085200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">פולישוק 3 - נקמת היונה, חלק א'</title>
+    <desc lang="ru">קומי. נקמת היונה, חלק א': תקומה מופתעת לגלות שהחבר שלה, בנו של ראש הממשלה, מתחתן עם בחורה אחרת. סולי מתגייסת למנוע מפולישוק להגיע לחתונה. כ' עב.</desc>
+</programme>
+<programme start="20240825085200 +0300" stop="20240825091600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל) - הקשר הצרפתי</title>
+    <desc lang="ru">שכן חדש ושרמנטי עובר לגור בבניין ושובה את רותי בקסמיו, אך העניינים מתחילים להסתבך כשהוא מנסה להתחיל עם דליה ורותי לא מאמינה שזה קרה. וגם - מה קורה כשריבה ושוש מחליטות לשתף פעולה? כ' עב'.</desc>
+</programme>
+<programme start="20240825091600 +0300" stop="20240825094200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל) - נכדים זה שמחה</title>
+    <desc lang="ru">בדיוק כשדליה קבעה שיעור סלסה עם אדוארדו, הנכד שלה מגיע לביקור, ובמקום הילד החביב מגיע נער שמפר את השלווה בביתן של הבנות. כ' עב'.</desc>
+</programme>
+<programme start="20240825094200 +0300" stop="20240825100600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">החיים זה לא הכל 8 - ביחד או לחוד?</title>
+    <desc lang="ru">כולם נתקעים בפלונטר אנושי שמצריך שיתוף פעולה נדיר.</desc>
+</programme>
+<programme start="20240825100600 +0300" stop="20240825103000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">החיים זה לא הכל 9 - צחוק הגורל</title>
+    <desc lang="ru">כולם נתקעים בפלונטר אנושי שמצריך שיתוף פעולה נדיר כ' עב'.</desc>
+</programme>
+<programme start="20240825103000 +0300" stop="20240825105400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">סברי מרנן 2 - משה כן משה לא</title>
+    <desc lang="ru">איך צריך להשכיב את הבת הטרייה של שי ושני שסובלת מגזים - על הבטן או על הגב? ומה עושה משה בבית רוזן? כ' עב.</desc>
+</programme>
+<programme start="20240825105400 +0300" stop="20240825111700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">סברי מרנן 2 - רומיאו ויוליה</title>
+    <desc lang="ru">כששי ושני מספרים לילדות על הזוג השייקספירי, הקטנות מדמיינות את ההורים שלהם בתפקידים הראשים של הסיפור הרומנטי.</desc>
+</programme>
+<programme start="20240825111700 +0300" stop="20240825115200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">מה זה השטויות האלה? 4 - בריאות</title>
+    <desc lang="ru">בידור. 7. בריאות: כשעדי אשכנזי לא מרגישה טוב: היא מנסה לסחוט מהרוקח תרופות בלי מרשם, מתאשפזת בבית חולים, מקבלת טיפול אלטרנטיבי והמלצה לכדורים פסיכיאטריים. כ' עב.</desc>
+</programme>
+<programme start="20240825115200 +0300" stop="20240825121700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">כאן גרים בכיף 2 - חורף</title>
+    <desc lang="ru">בחוץ יורד מבול ויהלי מכריח את ענת לצאת איתו לצלם רקפות, דניאל בגבס ואלכס סורגת לו מחמם אייפון, עמרי משגע את יהלי שמכת ברק תהפוך אותו לגאון, הוישרים באוטו הלכו, כל המטריות בבית שבורות ולכולם יש נזלת.</desc>
+</programme>
+<programme start="20240825121700 +0300" stop="20240825124100 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">כאן גרים בכיף 2 - לילה</title>
+    <desc lang="ru">קשה מאוד לישון בבית משפחת שלו. יהלי מתעקש להירדם במיטה של ההורים והורס ליאיר את הגב, לעמרי יש סיוטים מוזרים על מישהו בשם ''דינקו'', שלי מגיעה באמצע הלילה וחופרת לכולם על השיפוצניק שעזב אותה. כ' עב'.</desc>
+</programme>
+<programme start="20240825124100 +0300" stop="20240825130500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">הפרלמנט 2 - האקדח של אמציה</title>
+    <desc lang="ru">רשימת מערכונים: אקדח, קוסמוי, הליכה - כנפיים, הפסקת חשמל, הליכה ספר סרט. כ' עב.</desc>
+</programme>
+<programme start="20240825130500 +0300" stop="20240825133000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">חברות 4 - מאותגרת פריון</title>
+    <desc lang="ru">ורד לא מגיעה לספסל מסיבה מסתורית, שני נדלקת על קצין משטרה עם ישבן בולט ונועה וארז מוצפים בפסלים מעיסת נייר שאמא של נועה מכינה ומחלקת. כתוביות בעברית.</desc>
+</programme>
+<programme start="20240825133000 +0300" stop="20240825135400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">חברות 4 - שברי את הטלוויזיה</title>
+    <desc lang="ru">הקומדיה המצליחה עם ליטל שוורץ, מגי אזרזר, קובי מימון ועוד. והערב: נועה מחליטה להוציא את הטלוויזיה מהבית, פזית מתוסכלת שענבל לא מבלה איתה מספיק ושני הופכת לדודה ושונאת את זה מהרגע הראשון. כ' עב'.</desc>
+</programme>
+<programme start="20240825135400 +0300" stop="20240825142000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - אוטו זבל</title>
+    <desc lang="ru">גניבת הפדיון החודשי של חלבי ופנסו, גורם להם זעם צרוף. קוקו ופרדי מתחילים בעבודה משותפת במשאית זבל. כ' עב'.</desc>
+</programme>
+<programme start="20240825142000 +0300" stop="20240825144900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - מוצא המינים</title>
+    <desc lang="ru">רבי קורקוס ואישתו רבקה, מגרשים את בנם מהבית כשזה מגלה סימני כפירה באמונה. כ' עב'.</desc>
+</programme>
+<programme start="20240825144900 +0300" stop="20240825151200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">סברי מרנן 2 - די.אן.איי</title>
+    <desc lang="ru">התינוקת החדשה של שי יפה מדי לטעמה של ריקי רוזן, שרוצה לבדוק מי באמת האבא. עם: רותם אבוהב, דביר בנדק, סנדרה שדה, טוביה צפיר ועוד. כ' עב.</desc>
+</programme>
+<programme start="20240825151200 +0300" stop="20240825153600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">סברי מרנן 2 - רחל אמנו</title>
+    <desc lang="ru">שי ושני רבים האם לעשות לקטנה בריתה, אורנה ומשה רבים האם לעשות לגדולה בת מצווה, מירב ננטשה, לסילבן אין מה ללבוש וכולם בעיקר סומכים על רחל שתפתור את המצב. כ' עב.</desc>
+</programme>
+<programme start="20240825153600 +0300" stop="20240825160000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">כאן גרים בכיף 2 - שגעונות</title>
+    <desc lang="ru">ענת נכנסת לטרוף של ציור, יאיר טוחן עשב נבט חיטה, דניאל מתלבש כמו פאנקיסט ומשנה את שמו ל''אופל''. יהלי הופך מומחה לשפת גוף וחושף את השקרים של יאיר. כ' עב'.</desc>
+</programme>
+<programme start="20240825160000 +0300" stop="20240825162400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">כאן גרים בכיף 2 - יום הולדת ליהלי</title>
+    <desc lang="ru">יום ההולדת של יהלי הגיע וחומי שכח לקנות לו את המתנה. המשפחה מארגנת לו מסיבה עם קוסם, שמתברר כקוסם כושל ביותר. כ' עב'.</desc>
+</programme>
+<programme start="20240825162400 +0300" stop="20240825172300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ארץ נהדרת - השוטרים</title>
+    <desc lang="ru">מיטב המערכונים של ''ארץ נהדרת'', והפעם: ספיישל השוטרים. כת' עב'.</desc>
+</programme>
+<programme start="20240825172300 +0300" stop="20240825175700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">מה זה השטויות האלה? 4 - בריאות</title>
+    <desc lang="ru">בידור. 7. בריאות: כשעדי אשכנזי לא מרגישה טוב: היא מנסה לסחוט מהרוקח תרופות בלי מרשם, מתאשפזת בבית חולים, מקבלת טיפול אלטרנטיבי והמלצה לכדורים פסיכיאטריים. כ' עב.</desc>
+</programme>
+<programme start="20240825175700 +0300" stop="20240825183500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">צומת מילר 3 - אמא בחו''ל</title>
+    <desc lang="ru">פרק 3 - אמא בחו''ל: מאיה נוסעת לברצלונה ומשאירה את אדיר פעם ראשונה לבד עם הבנות. אדיר מגלה שזה פחות נורא ממש שהוא חשב עד ש...אנאלי מסתבכת עם הביטוח הלאומי. כ' עב'.</desc>
+</programme>
+<programme start="20240825183500 +0300" stop="20240825190900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">צומת מילר 3 - לחוח</title>
+    <desc lang="ru">הסיוט של כל זוג: אנאלי נתפסה על חם בבגידה - מה עתיד היחסים של מי שעשתה צפיית בינג' בלי בן הזוג? כ' עב.</desc>
+</programme>
+<programme start="20240825190900 +0300" stop="20240825193400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">נבסו 2 - מאותגר שכר</title>
+    <desc lang="ru">גילי מגלה שכל המשרד מרוויח יותר ממנו וחושב שזה בגלל גזענות. ניצה מתחילה לקרוא רומנים אירוטיים וגוררת את יעקב לסדנת טנטרה. אבל כשמתגלית הפנטזיה הכמוסה של יעקב זה לא ממש מוצא חן בעיניה.</desc>
+</programme>
+<programme start="20240825193400 +0300" stop="20240825195800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">נבסו 2 - השיער</title>
+    <desc lang="ru">תמר מתחילה ללמד בבית ספר ועכשיו גילי צריך לסדר למעין את האפרו כל בוקר וזה ממש לא פשוט. יעקב מנסה למכור רכב ישן במחיר השוק וכמגיעים קונים ערבים ולוקחים את הרכב לסיבוב הוא חושב שמנסים לחטוף אותו.</desc>
+</programme>
+<programme start="20240825195800 +0300" stop="20240825202200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">רמזור 2 - קולולו</title>
+    <desc lang="ru">טלי מנחיתה על אמיר פצצה: סבתה הטריפוליטאית מתכננת לעשות קולולו בחתונה. חפר מעביר לילה מטורף עם שירי סרטים שאחריו היא נעלמת לו. המטפלת הזוגית ממליצה לאיצקו ולילך לעשות סקס בכל יום. כ' עב.</desc>
+</programme>
+<programme start="20240825202200 +0300" stop="20240825204900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">רמזור 2 - להרגיש מבוגר</title>
+    <desc lang="ru">במהלך בילוי במועדון, אמיר מגלה שהוא רוקד כמו המבוגרים בחתונות. זה מחמיר כשמלצרית פונה אליו בתואר אדוני. חפר מגלה שאי אפשר להיפרד משירי סרטים. זר פרחים רומנטי מקרב בין איצקו ללילך. כ' עב.</desc>
+</programme>
+<programme start="20240825204900 +0300" stop="20240825212700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-90 - צרות בצרורות</title>
+    <desc lang="ru">הדיירים החדשים דורשים להפוך את בית הכנסת למועדון - והשכונה מתפצלת: האם פרוספר יחתום על צו הפינוי כפי שהרב דורש ממנו או שיילך עם הלב? אולמי ממוקה נקלעים לקשיים כלכליים ונאלצים לחשב מסלול מחדש. כ' עב'.</desc>
+</programme>
+<programme start="20240825212700 +0300" stop="20240825221200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שנות ה-90 - הרגע לו חיכינו</title>
+    <desc lang="ru">הקריירה של שלום צוברת תאוצה עם ההופעה הראשונה שלו בטלוויזיה, בעוד שמנגד הנישואים שלו מגיעים לקיצם כשהוא ובקי מחליטים להתגרש באופן סופי, וגם: פרוספר מחפש עבודה חדשה, ומורדי חושב על מעבר לעיר הגדולה.</desc>
+</programme>
+<programme start="20240825221200 +0300" stop="20240825223500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">חברות 4 - קברי צדיקים</title>
+    <desc lang="ru">נועה עוברת לתפריט בריא ומתחילה להנביט, שני יוצאת לחפש ישועה בקברי צדיקים. עם: ליטל שוורץ, מגי אזרזר, קובי מימון, לירון וייסמן, לרית בלבן ועוד. כתוביות בעברית.</desc>
+</programme>
+<programme start="20240825223500 +0300" stop="20240825230000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">חברות 4 - המתעמלת האולימפית</title>
+    <desc lang="ru">עונה חדשה של ''חברות'' עם ליטל שוורץ, מגי אזרזר, קובי מימון, לירון וייסמן, לרית בלבן ועוד. והערב: נועה וארז מגלים שלליה יש כשרון אולימפי ומוכנים לשאת בתוצאות, פזית וניסים מתלבטים בין אמצעי מניעה. כ' עב.</desc>
+</programme>
+<programme start="20240825230000 +0300" stop="20240825233200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">צומת מילר 3 - שדזכים</title>
+    <desc lang="ru">אדיר ומאיה מחליטים לשלוח את רוני לקלינאית תקשורת, לעופר מתגלה בעיה בריאותית מביכה וגולן מלמד את אנאלי נהיגה ישראלית.</desc>
+</programme>
+<programme start="20240825233200 +0300" stop="20240826000500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">צומת מילר 3 - בנק עממי</title>
+    <desc lang="ru">דיר מצלם בטעות ילדה אחרת במופע סיום חוג גז של רוני. אנאלי מגלה שבישראל בלתי אפשרי לקבל מענה אנושי מהבנק. עופר מוצא שיטה נהדרת לחסוך פקקים. כ' עב'.</desc>
+</programme>
+<programme start="20240826000500 +0300" stop="20240826003800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 4 - הקשר הצרפתי</title>
+    <desc lang="ru">הדוד עמרן עושה עליה ממרסיי יחד עם ביתו קלודין היפהפייה (מירי בוהדנה) שמשגעת את השכונה.מורדי שחולם לרכוש את ליבה של קלודין לוקח שיעורי צרפתית אצל מרסל ואילו פרוספר מסדר לקלודין עבודה אצל פיטוסי.כ' עב'.</desc>
+</programme>
+<programme start="20240826003800 +0300" stop="20240826011500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">רמזור 3 - ד''ר שדמה</title>
+    <desc lang="ru">טלי ואמיר בהיריון אך לא מספרים לאיש נגד עין הרע, הם לא יודעים שכולם כבר מזמן יודעים. טלי מחליטה להיבדק אצל ד''ר שדמה, אלא שאז מסתבר שמי שבודק את אשתו של אמיר, הוא לא אחר מהיריב הישן שלו מהתיכון. כ' עב.</desc>
+</programme>
+<programme start="20240826011500 +0300" stop="20240826014000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">רמזור 3 - קולסלאו</title>
+    <desc lang="ru">בעקבות ההיריון טלי חולמת לעבור לגור במושב, אלא שאמיר מסרב בתוקף לעזוב את העיר. כשטלי נרשמת ליישוב קהילתי אמיר הופך דווקא נחוש ולהוט לעבור את וועדת הקבלה. איצקו הרווק מגלה שדייטים היום זה עסק יקר. כ' ע.</desc>
+</programme>
+<programme start="20240826014000 +0300" stop="20240826020300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">אחד העם 101 - חוזרים לאחד העם 1</title>
+    <desc lang="ru">שובה של החתולה השחורה. כ' עב'.</desc>
+</programme>
+<programme start="20240826020300 +0300" stop="20240826022900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">הישראלים - לא נפסיק לשיר</title>
+    <desc lang="ru">''הישראלים'' בכיכובם של שלישיית ''מה קשור'' הינה דרמה קומית עם מבחר מערכונים מקוריים העוסקים בנושאים החשובים ביותר בחברה הישראלית - אבטלה, ממשלה, ספורט ועוד.</desc>
+</programme>
+<programme start="20240826022900 +0300" stop="20240826025000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">דובדבני וקובץ' - המשמר האזרחי</title>
+    <desc lang="ru">8. משמר אזרחי: דובדבני וקובץ' הם חברי ילדות שעובדים יחד, חולקים דירה שכורה, ומעת לעת מסתבכים בכל צרה אפשרית. והפעם: אבי בעל הגלידריה מכריח את הצמד להתנדב למשמר האזרחי, והלילה נגמר במסע רצח. כ' עב.</desc>
+</programme>
+<programme start="20240826025000 +0300" stop="20240826031800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">יום האם - פרק 7</title>
+    <desc lang="ru">אלה דוחפת את תמרה לקבל את התפקיד הראשי בטקס יום השואה ומגייסת לשם כך אוד מוצל, מיקי מתכוננת לבכי הגדול ומושו מתחיל לעשות כביסה בבית. כ' עב'.</desc>
+</programme>
+<programme start="20240826031800 +0300" stop="20240826034700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שחקן זר - פרק 2</title>
+    <desc lang="ru">המשחק הראשון של אדיר באנגליה לא משביע את רצונו של מאיר. כנקמה, האב מנסה לארגן מרד אוהדים. איך זה ייגמר? כ' עב.</desc>
+</programme>
+<programme start="20240826034700 +0300" stop="20240826041100 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל) - הקשר הצרפתי</title>
+    <desc lang="ru">שכן חדש ושרמנטי עובר לגור בבניין ושובה את רותי בקסמיו, אך העניינים מתחילים להסתבך כשהוא מנסה להתחיל עם דליה ורותי לא מאמינה שזה קרה. וגם - מה קורה כשריבה ושוש מחליטות לשתף פעולה? כ' עב'.</desc>
+</programme>
+<programme start="20240826041100 +0300" stop="20240826043700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל) - נכדים זה שמחה</title>
+    <desc lang="ru">בדיוק כשדליה קבעה שיעור סלסה עם אדוארדו, הנכד שלה מגיע לביקור, ובמקום הילד החביב מגיע נער שמפר את השלווה בביתן של הבנות. כ' עב'.</desc>
+</programme>
+<programme start="20240826043700 +0300" stop="20240826050200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">הנחלה - השומר הזקן</title>
+    <desc lang="ru">ארז מתעקש להיכנס לתורנות שמירה וכתוצאה מכך אריק נאלץ לפרוש. שירי ודפנה מקימות קייטנה בנחלה. כ' עב.</desc>
+</programme>
+<programme start="20240826050200 +0300" stop="20240826052600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">מה שבע - פסח</title>
+    <desc lang="ru">דלית והשכנה מחליטות לצעוק כל אחת על הילדים של השנייה. דודי מקווה שהפעם המשפחה שלו תזמין אותם לליל הסדר, ואבשי מציע לזהר המזכירה להיות בת הזוג שלו לערב הסדר. כ' עב'.</desc>
+</programme>
+<programme start="20240826052600 +0300" stop="20240826054700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">דובדבני וקובץ' - סבא אברהם נכנס בחינם</title>
+    <desc lang="ru">7. סבא אברהם נכנס בחינם: דובדבני וקובץ' הם חברי ילדות שעובדים בגלידריה וחולקים דירה שכורה. הפעם: דובדבני צריך לקחת את סבא לקופת חולים אבל קובץ' מתעקש ללכת לקאנטרי קלאב בכל מחיר. כ' עב.</desc>
+</programme>
+<programme start="20240826054700 +0300" stop="20240826060700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">עם סגולה - אין מפריעים לסעוד</title>
+    <desc lang="ru">שלישיית ''מה קשור'' עם דמויות ישראליות שונות ומגוונות וביניהם - אביהו, נתי ובצלאל שנסעו לתאילנד על מנת לחלץ את שולי שמוחזק בכלא. כ' עב'.</desc>
+</programme>
+<programme start="20240826060700 +0300" stop="20240826063200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">הישראלים - הישראלים עם נפלא!</title>
+    <desc lang="ru">''הישראלים'' בכיכובם של שלישיית ''מה קשור'' הינה דרמה קומית עם מבחר מערכונים מקוריים העוסקים בנושאים החשובים ביותר בחברה הישראלית - אבטלה, ממשלה, ספורט ועוד.</desc>
+</programme>
+<programme start="20240826063200 +0300" stop="20240826065800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל) - ילדה רעה</title>
+    <desc lang="ru">שוש מחליטה לערוך ניסויים טכניים על הרכב של דליה, בעוד שרותי מבריזה מהלימודים כדי לנהל רומן סוער עם המורה להתעמלות,.ומתאהבת בו עד הרגע שבו שהיא מגלה שהוא נשוי. כ' עב'.</desc>
+</programme>
+<programme start="20240826065800 +0300" stop="20240826072500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל) - ביג ורשבסקי</title>
+    <desc lang="ru">השכנים הורשבסקים פותחים במלחמת ווליום נגד הבנות. רותי רוצה להשכין שלום, אבל ריבה יודעת שיש רק דרך אחת לגרום להם להפסיק. כ' עב'.</desc>
+</programme>
+<programme start="20240826072500 +0300" stop="20240826074800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">סברי מרנן 2 - שלוש ושליש</title>
+    <desc lang="ru">הפעם הראשונה ששני מביאה את התינוקת לבית רוזן, ואדם מגיע עם מיה רובין מהסדרה שלוש. עם: רותם אבוהב, דביר בנדק, סנדרה שדה, טוביה צפיר ועוד. כ' עב.</desc>
+</programme>
+<programme start="20240826074800 +0300" stop="20240826081200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">סברי מרנן 2 - חלומות</title>
+    <desc lang="ru">פרק מיוחד שבו נבקר בחלומות ובסיוטים של כל אלה שהיו ביום שישי אחד אצל משפחת חסון. עם: רותם אבוהב, דביר בנדק, סנדרה שדה, טוביה צפיר ועוד. כ' עב.</desc>
+</programme>
+<programme start="20240826081200 +0300" stop="20240826085600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">מה זה השטויות האלה? 2 - ילדים</title>
+    <desc lang="ru">עדי מקשיבה לשעון הביולוגי שלה ומחליטה להיות אימא לארבעה בנים שנמסרו להשגחתה ל-48 שעות. היא מסיעה, מאכילה, רוחצת, מחליפה, ובעיקר מתחרטת שהסכימה לכל העניין. כ' עב.</desc>
+</programme>
+<programme start="20240826085600 +0300" stop="20240826092400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">פולישוק 3 - נקמת היונה, חלק ב'</title>
+    <desc lang="ru">קומי. נקמת היונה, חלק ב': פרק סיום הסדרה. תקומה עומדת להתחתן ופולישוק עומד להביא שלום. הבעיה היא שזה קורה באותה שעה במדינות שונות. צוות המשרד מנסה לרקוד על שתי החתונות. כ' עב.</desc>
+</programme>
+<programme start="20240826092400 +0300" stop="20240826094900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל) - ילדה רעה</title>
+    <desc lang="ru">שוש מחליטה לערוך ניסויים טכניים על הרכב של דליה, בעוד שרותי מבריזה מהלימודים כדי לנהל רומן סוער עם המורה להתעמלות,.ומתאהבת בו עד הרגע שבו שהיא מגלה שהוא נשוי. כ' עב'.</desc>
+</programme>
+<programme start="20240826094900 +0300" stop="20240826101600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל) - ביג ורשבסקי</title>
+    <desc lang="ru">השכנים הורשבסקים פותחים במלחמת ווליום נגד הבנות. רותי רוצה להשכין שלום, אבל ריבה יודעת שיש רק דרך אחת לגרום להם להפסיק. כ' עב'.</desc>
+</programme>
+<programme start="20240826101600 +0300" stop="20240826104200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">החיים זה לא הכל 9 - ראש כחול</title>
+    <desc lang="ru">מה הקשר בין גדי, דפנה, זקנה בבית אבות וביצה כחולה? כ' עב'.</desc>
+</programme>
+<programme start="20240826104200 +0300" stop="20240826110500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">החיים זה לא הכל 9 - ממזרים חסרי כבוד</title>
+    <desc lang="ru">מיקי וגדי לוקחים את החוק לידיים שלהם. האם זאת התחלה של עבריינות נפלאה? כ' עב'.</desc>
+</programme>
+<programme start="20240826110500 +0300" stop="20240826112900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">סברי מרנן 2 - יום שישי ה-13</title>
+    <desc lang="ru">יום שישי אפל ומסתורי עם הפסקות חשמל, בו בודקים האם יש אמת באגדות האורבניות. עם: רותם אבוהב, דביר בנדק, סנדרה שדה, טוביה צפיר ועוד. אורחת: נועה וולמן.</desc>
+</programme>
+<programme start="20240826112900 +0300" stop="20240826115200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">סברי מרנן 2 - עגלה</title>
+    <desc lang="ru">כולם יצאו וסילבן חסון נאלץ לשמור על התינוקת הבוכה והחדשה של שי ושני עם העגלה המשוכללת שלה. עם: רותם אבוהב, דביר בנדק, סנדרה שדה, טוביה צפיר ועוד. כ' עב.</desc>
+</programme>
+<programme start="20240826115200 +0300" stop="20240826122800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">מה זה השטויות האלה? 4 - יום הולדת</title>
+    <desc lang="ru">בידור. 8. יום הולדת: ביום הולדתה מסתובבת עדי מדוכדכת ועצבנית, מסתבכת עם ליצן נצלן, מפחידה ילדים בגן, מציקה לחתן בר מצווה וכמעט מחבלת במסיבת הפתעה מושקעת במיוחד. כ' עב.</desc>
+</programme>
+<programme start="20240826122800 +0300" stop="20240826125300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">כאן גרים בכיף 2 - שגעונות</title>
+    <desc lang="ru">ענת נכנסת לטרוף של ציור, יאיר טוחן עשב נבט חיטה, דניאל מתלבש כמו פאנקיסט ומשנה את שמו ל''אופל''. יהלי הופך מומחה לשפת גוף וחושף את השקרים של יאיר. כ' עב'.</desc>
+</programme>
+<programme start="20240826125300 +0300" stop="20240826131700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">כאן גרים בכיף 2 - יום הולדת ליהלי</title>
+    <desc lang="ru">יום ההולדת של יהלי הגיע וחומי שכח לקנות לו את המתנה. המשפחה מארגנת לו מסיבה עם קוסם, שמתברר כקוסם כושל ביותר. כ' עב'.</desc>
+</programme>
+<programme start="20240826131700 +0300" stop="20240826134000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">הפרלמנט 2 - שטיפת הרכב האחרונה</title>
+    <desc lang="ru">רשימת מערכונים: לוטו, שבת, שטיפה, הקטור תמונות, שטיפה. כ' עב.</desc>
+</programme>
+<programme start="20240826134000 +0300" stop="20240826140600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">חברות 4 - החתונה של שני</title>
+    <desc lang="ru">פרק סיום עונה חגיגי! בורקס זוכה בפיס ושני רואה אותו באור אחר, לנועה קשה להמשך לארז אחרי שראתה אותו בורח מחולדה ופזית מתעקשת שיובל יצא למחנה קיץ בצופים למרות שהוא ממש לא רוצה. כ' עב.</desc>
+</programme>
+<programme start="20240826140600 +0300" stop="20240826143000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">חברות 3 - המלונית</title>
+    <desc lang="ru">נועה יולדת בת שניה והחיים שלה משתנים כשהיא מגלה את המלונית, שני מסבלטת את הדירה שלה ובטוחה שהיא מצאה עבודה יותר קלה מהמשטרה ופזית מכניסה את הרצל לגן חדש ונכנסת לתקופת הסתגלות אינסופית. כ' עב.</desc>
+</programme>
+<programme start="20240826143000 +0300" stop="20240826150000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - מחיר הערק</title>
+    <desc lang="ru">גידי מתמנה כאחראי שיווק ופרסום במפעל ערק ומחפש פרזנטור זול מהשכונה. שלום מתעמת עם השקמיסט בבסיס. כ' עב'.</desc>
+</programme>
+<programme start="20240826150000 +0300" stop="20240826153200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - שערות סבתא</title>
+    <desc lang="ru">בעקבות הסתלקותה הפתאומית של סבתא מיזולדה ממוקה שוקע בתהומות של יגון וצער. כ' עב'.</desc>
+</programme>
+<programme start="20240826153200 +0300" stop="20240826155500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">סברי מרנן 2 - אוכל</title>
+    <desc lang="ru">שי ושני מחליטים לפצוח בדיאטה בדיוק כשפנחס מזמין שפית צרפתייה לבשל את ארוחת יום השישי במקום ריקי. עם: רותם אבוהב, דביר בנדק, סנדרה שדה, טוביה צפיר ועוד. כ' עב.</desc>
+</programme>
+<programme start="20240826155500 +0300" stop="20240826161900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">סברי מרנן 2 - הקרב על הוועד</title>
+    <desc lang="ru">סילבן חסון מתמודד על ראשות הוועד בבניין וכולם נרתמים לעזור בקמפיין. חוץ ממירב שחושדת שמשה בוגד באורנה. עם: רותם אבוהב, דביר בנדק, סנדרה שדה, טוביה צפיר ועוד. כ' עב.</desc>
+</programme>
+<programme start="20240826161900 +0300" stop="20240826164300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">כאן גרים בכיף 2 - התנהגות</title>
+    <desc lang="ru">הבלגן חוגג בחדרים, אי אפשר להבין מילה ממה שהבנים אומרים, וכולם מצפצפים על אימא. ענת לא מתייאשת, היא לומדת לדבר קצר ומנסה לחנך את הבנים בדרכים מקוריות. כ' עב'.</desc>
+</programme>
+<programme start="20240826164300 +0300" stop="20240826170900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">כאן גרים בכיף 2 - שורשים</title>
+    <desc lang="ru">עמרי צריך להכין עבודת שורשים, וכשיהלי לא מוכן לעשות את העבודה במקומו, עמרי מבשר לו שהוא ילד מאומץ. יהלי לא מאמין אבל דניאל ועמרי מוכיחים לו שהוא לא דומה לאף אחד בבית. כ' עב'.</desc>
+</programme>
+<programme start="20240826170900 +0300" stop="20240826174500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ארץ נהדרת - רצח בריקודי עם</title>
+    <desc lang="ru">מי אחראי לרצח במהלך השיעור של מנשה מנטה, מרקיד ויוצר ריקודי עם, שחתום על 273 ריקודים? כ' עב'.</desc>
+</programme>
+<programme start="20240826174500 +0300" stop="20240826182200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">מה זה השטויות האלה? 4 - יום הולדת</title>
+    <desc lang="ru">בידור. 8. יום הולדת: ביום הולדתה מסתובבת עדי מדוכדכת ועצבנית, מסתבכת עם ליצן נצלן, מפחידה ילדים בגן, מציקה לחתן בר מצווה וכמעט מחבלת במסיבת הפתעה מושקעת במיוחד. כ' עב.</desc>
+</programme>
+<programme start="20240826182200 +0300" stop="20240826185400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">צומת מילר 3 - שדזכים</title>
+    <desc lang="ru">אדיר ומאיה מחליטים לשלוח את רוני לקלינאית תקשורת, לעופר מתגלה בעיה בריאותית מביכה וגולן מלמד את אנאלי נהיגה ישראלית.</desc>
+</programme>
+<programme start="20240826185400 +0300" stop="20240826192700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">צומת מילר 3 - בנק עממי</title>
+    <desc lang="ru">דיר מצלם בטעות ילדה אחרת במופע סיום חוג גז של רוני. אנאלי מגלה שבישראל בלתי אפשרי לקבל מענה אנושי מהבנק. עופר מוצא שיטה נהדרת לחסוך פקקים. כ' עב'.</desc>
+</programme>
+<programme start="20240826192700 +0300" stop="20240826195200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">נבסו 2 - הכלב</title>
+    <desc lang="ru">פורצים לבית של ניצה ויעקב וניצה מפתחת פחדים. יעקב מביא כלב שמירה לחצר כדי להרגיע אותה ומסתבר שלגילי יש פחד מכלבים. גילי הולך לסדנה לטיפול בפחד מכלבים אבל למרות כל המאמצים לא מצליח להתיידד עם הכלב.</desc>
+</programme>
+<programme start="20240826195200 +0300" stop="20240826202300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">נבסו 2 - ספיישל אתיופיה</title>
+    <desc lang="ru">גילי מגלה שניצה התכוונה להוציא דרכון פולני לתמר ומעיין ומציע במקום, שהמשפחה תוציא דרכונים אתיופים. כדי לבדוק את האופציה גילי ותמר טסים לטיול בלתי נשכח באתיופיה.</desc>
+</programme>
+<programme start="20240826202300 +0300" stop="20240826205300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">רמזור 2 - הנדימן</title>
+    <desc lang="ru">אמיר מסתבך בהרכבת מדפים. עמוס השכן החתיך, מתקן בדקה אל מול עיניה של טלי את מה שלקח לאמיר חודש. אמיר יוצא לקרב על הגבריות שלו. חפר ברומן עם המתורגמנית לשפת החרשים מהחדשות. כ' עב.</desc>
+</programme>
+<programme start="20240826205300 +0300" stop="20240826211700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">רמזור 2 - מייל שרשרת</title>
+    <desc lang="ru">אמיר אינו אוסף את הקקי של ירדנה ומסתבך עם שכנה מהגיהינום. חפר מקבל מייל שרשרת שמאיים כי קללה תיפול על מי שלא ישרשר אותו הלאה, אבל מזלזל ומוחק. המטפלת הזוגית מכריחה את איצקו ולילך לצאת לבלות ביחד. כ' ע.</desc>
+</programme>
+<programme start="20240826211700 +0300" stop="20240826214400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 - חלום ילדות</title>
+    <desc lang="ru">חלום ילדות: שלום חולם להיות בדרן ופרוספר חולם להיות חייט. מי יגשים את חלומו? כ' עב'.</desc>
+</programme>
+<programme start="20240826214400 +0300" stop="20240826221300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 - מירוץ הטלוויזיות הגדו</title>
+    <desc lang="ru">מירוץ הטלוויזיות הגדול: פרוספר מנסה בו זמנית להתחמק מתשלום אגרת הטלויזיה ולהפוך לחזן. האם יצליח? כ' עב'.</desc>
+</programme>
+<programme start="20240826221300 +0300" stop="20240826223700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">חברות 4 - לצאת מהארון</title>
+    <desc lang="ru">שני ונועה מקבלות הזמנות למועדון הבוצ'ה, פזית מרגישה שהחברה החדשה של יובל מרעילה את היחסים בבית וורד סוף סוף נחשפת! עם ליטל שוורץ, מגי אזרזר, קובי מימון, לירון וייסמן, לרית בלבן ועוד. כתוביות בעברית.</desc>
+</programme>
+<programme start="20240826223700 +0300" stop="20240826230100 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">חברות 4 - להציל את המציל</title>
+    <desc lang="ru">עונה חדשה עם ליטל שוורץ, מגי אזרזר, קובי מימון, לירון וייסמן, לרית בלבן ועוד. נועה עושה לארז סדר בארון וזורקת את החולצות שהוא הכי אוהב, פזית וניסים מבינים שחייבים לצאת מהמינוס ושני נדלקת על מציל. כ עב.</desc>
+</programme>
+<programme start="20240826230100 +0300" stop="20240826232900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">צומת מילר 3 - השיחה</title>
+    <desc lang="ru">אדיר מבואס מזה שמאיה כועסת עליו ולא מוכנה לסלוח עד שהם לא ינהלו שיחה. רותם יוצאת עם בחור חדש, אך משהו קטן מפריע לה מאוד. אנאלי מגלה שלפטר מנקה בישראל זו טעות חמורה. כ' עב.</desc>
+</programme>
+<programme start="20240826232900 +0300" stop="20240827000000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">צומת מילר 3 - אנאלי במוסד</title>
+    <desc lang="ru">אנאלי מתרגשת בטירוף לאחר שקיבלה זימון לפגישה במוסד. רותם פוגשת בחור מצליח בעל עסק לגבינות אך לא ממש מצליח לה איתו. אדיר מגלה שמאיה מרכלת עליו בלי סוף עם חברותיה. כ' עב.</desc>
+</programme>
+<programme start="20240827000000 +0300" stop="20240827002900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 4 - חגורה שחורה</title>
+    <desc lang="ru">בעוד קלודין מתמודדת מול החיזורים של פיטוסי, פרוספר מסדר לאביה עמרן עבודה כעוזר מאמן ג'ודו במתנ''ס המקומי, שלום נערך למבחנים ללהקה הצבאית ומתחיל ללמוד פסנתר אצל נטליה השכנה הרוסיה.כ' עב'.</desc>
+</programme>
+<programme start="20240827002900 +0300" stop="20240827005900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">רמזור 3 - מי הציל אותך?</title>
+    <desc lang="ru">טלי מחליטה ללכת לחנות שילב ולהזמין ציוד לתינוק. אמיר מסביר לה שהיא רק בשבוע השלישי להיריון וזה מוקדם מדיי. חבר של חפר שהציל את חייו בלבנון מגיע אל חפר הביתה ומתחיל לחלוב אותו. כ' עב.</desc>
+</programme>
+<programme start="20240827005900 +0300" stop="20240827012800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">רמזור 3 - פרחים לאלישע</title>
+    <desc lang="ru">אמיר מרגיש שהרומנטיות נעלמה מהזוגיות שלו. החברים ממליצים לאמיר לחזור עם טלי למקום שבו היה להם הערב הרומנטי ביותר שלהם. איצקו ולילך מחליטים לחזור, המטפלת הזוגית מבקשת מהם לגדל ביחד אדנית עציצים. כ' עב.</desc>
+</programme>
+<programme start="20240827012800 +0300" stop="20240827015600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">אחד העם 101 - תלמה ולואיז</title>
+    <desc lang="ru">האם מדובר בסוף של מירי? כ' עב'.</desc>
+</programme>
+<programme start="20240827015600 +0300" stop="20240827022100 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">עם סגולה - בלשכה של אובמה</title>
+    <desc lang="ru">שלישיית ''מה קשור'' עם דמויות ישראליות שונות ומגוונות וביניהם - אביהו, נתי ובצלאל שנסעו לתאילנד על מנת לחלץ את שולי שמוחזק בכלא. כ' עב'.</desc>
+</programme>
+<programme start="20240827022100 +0300" stop="20240827024500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">דובדבני וקובץ' - המכשפה</title>
+    <desc lang="ru">9. המכשפה: דובדבני וקובץ' הם חברי ילדות שעובדים בגלידריה וחולקים דירה שכורה. כשהם ביחד, הם מסתבכים בכל צרה אפשרית. והפעם: מכשפה מקללת את קובץ', וגורמת לו לשנות את חייו באופן קיצוני. כ' עב.</desc>
+</programme>
+<programme start="20240827024500 +0300" stop="20240827031300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">יום האם - פרק 8</title>
+    <desc lang="ru">מושו מוזמן לכנס המחזור של התיכון שלו ומחליט לשדרג את הופעתו. אלה מגלה שהוא עומד לפגוש שם את אהבת נעוריו. כ' עב'.</desc>
+</programme>
+<programme start="20240827031300 +0300" stop="20240827034000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שחקן זר - פרק 3</title>
+    <desc lang="ru">לפרדי מיוחס יש נפש של אמן, הוא טוב בעיקר בלא לעשות כלום, כל מה שצריך כדי להפוך לפסל אנושי. האם פרדי מצא את ג'וב החלומות? כ' עב.</desc>
+</programme>
+<programme start="20240827034000 +0300" stop="20240827040500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל) - ילדה רעה</title>
+    <desc lang="ru">שוש מחליטה לערוך ניסויים טכניים על הרכב של דליה, בעוד שרותי מבריזה מהלימודים כדי לנהל רומן סוער עם המורה להתעמלות,.ומתאהבת בו עד הרגע שבו שהיא מגלה שהוא נשוי. כ' עב'.</desc>
+</programme>
+<programme start="20240827040500 +0300" stop="20240827043200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל) - ביג ורשבסקי</title>
+    <desc lang="ru">השכנים הורשבסקים פותחים במלחמת ווליום נגד הבנות. רותי רוצה להשכין שלום, אבל ריבה יודעת שיש רק דרך אחת לגרום להם להפסיק. כ' עב'.</desc>
+</programme>
+<programme start="20240827043200 +0300" stop="20240827045600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">הנחלה - הרב פיילוט חלק א'</title>
+    <desc lang="ru">אריק מגלה שהוא נכד של רב גדול ומתקרב אל הדת. פאדי מבריז לשירין בגלל דפנה שוב ושוב. כ' עב'.</desc>
+</programme>
+<programme start="20240827045600 +0300" stop="20240827052000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">מה שבע - דלית של דודי</title>
+    <desc lang="ru">דלית מבינה שוויתרה על קריירה בגלל האמהות ומחפשת עבודה. דודי לומד לעשות שמאות חקלאית ואבשי מבין שהוא בן אדם לא זכיר. כ' עב'.</desc>
+</programme>
+<programme start="20240827052000 +0300" stop="20240827054500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">מ.ק. 22 - מים כבדים</title>
+    <desc lang="ru">לקראת ביקורת באפסנאות מגלה שוקרון, רס''ר הבסיס, כי חסרים לו שלושה ארגזי טושים, ראש נפץ גרעיני ושני ארגזי מהדקים. על שני האפסנאים - שולמן וחנוכה, מוטל להשלים את החסר. כ' עב.</desc>
+</programme>
+<programme start="20240827054500 +0300" stop="20240827061000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">הישראלים - בלשכת האבטלה</title>
+    <desc lang="ru">''הישראלים'' בכיכובם של שלישיית ''מה קשור'' הינה דרמה קומית עם מבחר מערכונים מקוריים העוסקים בנושאים החשובים ביותר בחברה הישראלית - אבטלה, ממשלה, ספורט ועוד.</desc>
+</programme>
+<programme start="20240827061000 +0300" stop="20240827063600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל) עונה 2 - שובו של הנחום</title>
+    <desc lang="ru">נחום, האקס של רותי, חוזר לחייה אחרי שנפרד מבת זוגתו הצעירה. הבנות עושות יד אחת להעיף אותו מהבית. כ' עב'.</desc>
+</programme>
+<programme start="20240827063600 +0300" stop="20240827070400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל) עונה 2 - בעיה קטנה</title>
+    <desc lang="ru">שוש מקפידה להסתיר מהבנות את זהותו של החבר החדש שלה, הסיבה לכך עתידה להפתיע את כולן, אבל לא כמו סוד אחר שמסתובב בסביבה. דליה מנסה לפתות את רותי לערב בנות עסיסי במיוחד. ולמה ריבה כל כך כועסת? כ' עב'.</desc>
+</programme>
+<programme start="20240827070400 +0300" stop="20240827072700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">סברי מרנן 2 - די.אן.איי</title>
+    <desc lang="ru">התינוקת החדשה של שי יפה מדי לטעמה של ריקי רוזן, שרוצה לבדוק מי באמת האבא. עם: רותם אבוהב, דביר בנדק, סנדרה שדה, טוביה צפיר ועוד. כ' עב.</desc>
+</programme>
+<programme start="20240827072700 +0300" stop="20240827075000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">סברי מרנן 2 - רחל אמנו</title>
+    <desc lang="ru">שי ושני רבים האם לעשות לקטנה בריתה, אורנה ומשה רבים האם לעשות לגדולה בת מצווה, מירב ננטשה, לסילבן אין מה ללבוש וכולם בעיקר סומכים על רחל שתפתור את המצב. כ' עב.</desc>
+</programme>
+<programme start="20240827075000 +0300" stop="20240827082800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">מה זה השטויות האלה? 2 - כושר</title>
+    <desc lang="ru">עדי אשכנזי מחליטה לחזור לכושר יחד עם חברתה מיה דגן. במהלך הפרק הן עוברות התעללות בידי מאמן גרמני, עושות בושות במגרש הטניס, מסתבכות עם המכשירים בפילאטיס, ומסיימות בתאונה. כ' עב.</desc>
+</programme>
+<programme start="20240827082800 +0300" stop="20240827085600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">פולישוק - פרק 1</title>
+    <desc lang="ru">פרק 1: סדרה קומית-דרמטית המלווה את הקריירה הסוערת של רובי פולישוק, ח''כ אלמוני ממפלגת מל''ל. עם ששון גבאי וחנה אזולאי-הספרי. הפרק מתמנה פולישוק לשר במקום אחר שנאשם בפדופיליה, ונעלב מאדישות התקשורת. כ עב.</desc>
+</programme>
+<programme start="20240827085600 +0300" stop="20240827092300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל) עונה 2 - שובו של הנחום</title>
+    <desc lang="ru">נחום, האקס של רותי, חוזר לחייה אחרי שנפרד מבת זוגתו הצעירה. הבנות עושות יד אחת להעיף אותו מהבית. כ' עב'.</desc>
+</programme>
+<programme start="20240827092300 +0300" stop="20240827095000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל) עונה 2 - בעיה קטנה</title>
+    <desc lang="ru">שוש מקפידה להסתיר מהבנות את זהותו של החבר החדש שלה, הסיבה לכך עתידה להפתיע את כולן, אבל לא כמו סוד אחר שמסתובב בסביבה. דליה מנסה לפתות את רותי לערב בנות עסיסי במיוחד. ולמה ריבה כל כך כועסת? כ' עב'.</desc>
+</programme>
+<programme start="20240827095000 +0300" stop="20240827101500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">החיים זה לא הכל 9 - יוניסקס</title>
+    <desc lang="ru">למה גדי ממלא טופס לשינוי מין? האם בתיה ומאיר צריכים לדאוג? כ' עב'.</desc>
+</programme>
+<programme start="20240827101500 +0300" stop="20240827104000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">החיים זה לא הכל 9 - יום הולדת</title>
+    <desc lang="ru">למה מיכלי הופתעה וחצי במסיבה שגדי ודפנה ארגנו לה? כ' עב'.</desc>
+</programme>
+<programme start="20240827104000 +0300" stop="20240827110300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">סברי מרנן 2 - החבר'ה ואני</title>
+    <desc lang="ru">ריקי ופנחס מארחים בערב אחד גם את המשפחה וגם את החברה שלהם שהקדימו בשעתיים ומצפים לארוחת ערב. שחקנים אורחים: מני פאר, נירה רבינוביץ. כ' עב.</desc>
+</programme>
+<programme start="20240827110300 +0300" stop="20240827112600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">סברי מרנן 2 - יוצאים לטיול</title>
+    <desc lang="ru">שני ושי משווים ובודקים אצל איזו משפחה קשה יותר לצאת לטיול בחו''ל, משפחת רוזן או משפחת חסון. כ' עב.</desc>
+</programme>
+<programme start="20240827112600 +0300" stop="20240827121600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">מה זה השטויות האלה? 4 - הודו, א'</title>
+    <desc lang="ru">בידור. עדי אשכנזי יוצאת לטיול של אחרי אחרי הצבא. עם שתי צעירות נוספות היא מגיעה לניו דלהי הדביקה, פוגשת בעיירה קאסול את הישראלים המעושנים, מתלבטת אם לעשן גם ומחפשת את עצמה במסיבת טראנס. כ עב.</desc>
+</programme>
+<programme start="20240827121600 +0300" stop="20240827124000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">כאן גרים בכיף 2 - התנהגות</title>
+    <desc lang="ru">הבלגן חוגג בחדרים, אי אפשר להבין מילה ממה שהבנים אומרים, וכולם מצפצפים על אימא. ענת לא מתייאשת, היא לומדת לדבר קצר ומנסה לחנך את הבנים בדרכים מקוריות. כ' עב'.</desc>
+</programme>
+<programme start="20240827124000 +0300" stop="20240827130600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">כאן גרים בכיף 2 - שורשים</title>
+    <desc lang="ru">עמרי צריך להכין עבודת שורשים, וכשיהלי לא מוכן לעשות את העבודה במקומו, עמרי מבשר לו שהוא ילד מאומץ. יהלי לא מאמין אבל דניאל ועמרי מוכיחים לו שהוא לא דומה לאף אחד בבית. כ' עב'.</desc>
+</programme>
+<programme start="20240827130600 +0300" stop="20240827132900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">הפרלמנט 2 - סוף לחגיגה</title>
+    <desc lang="ru">רשימת מערכונים: ברית, לימוזינה, זכות גדולה, אורגן, לימוזינה. כ' עב.</desc>
+</programme>
+<programme start="20240827132900 +0300" stop="20240827135400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">חברות 3 - הקרב על הציצי</title>
+    <desc lang="ru">ארז מעודד את נועה להניק ובינתיים הוא ישן כמו תינוק, פזית מלווה את ענבל שקיבלה רישיון נהיגה אחרי שבעה טסטים ושני שומעת גנב בלילה ומגלה שהוא ממש חתיך. כ' עב.</desc>
+</programme>
+<programme start="20240827135400 +0300" stop="20240827141900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">חברות 3 - קורס החייאה</title>
+    <desc lang="ru">נועה בחרדות על התינוקת אז היא גוררת את ארז לקורס החייאה, שני מזהה חלון הזדמנויות לשדרג את השותף שלה בניידת לשותף חתיך ולפזית וניסים פורצים הביתה ופזית פגועה שלא גנבו לה כלום. כ' עב.</desc>
+</programme>
+<programme start="20240827141900 +0300" stop="20240827145100 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - הסנדק</title>
+    <desc lang="ru">שגעון קלפי חבורת הזבל מגיע לשכונה יחד עם הבן הבכור של פרדי ואניטה. כ' עב'.</desc>
+</programme>
+<programme start="20240827145100 +0300" stop="20240827152200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - שידנא בר-יוחאי</title>
+    <desc lang="ru">פרוספר כבול בנדר לנסיעה לקבר הרשב''י בל''ג בעומר ונתקל בקשיים כשמנסה לארגן הסעה. כ' עב'.</desc>
+</programme>
+<programme start="20240827152200 +0300" stop="20240827154600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">סברי מרנן 2 - אחות שלו</title>
+    <desc lang="ru">לאחר שלא דיברו כמעט 30 שנה, מגיעה אחות של פנחס רוזן לביקור טעון שבו נגלה מי האבא של אדם. שחקנית אורחת: רבקה גור.</desc>
+</programme>
+<programme start="20240827154600 +0300" stop="20240827160900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">סברי מרנן 2 - ארוחה כפולה</title>
+    <desc lang="ru">שי ושני צריכים להיות בשתי ארוחות ערב כי לסילבן חסון יש יומולדת אצל משפחת רוזן, פאני מהקאנטרי מגיעה סוף סוף. שחקניות אורחות: אביבה מרקס ולירז צ'רכי. כ' עב.</desc>
+</programme>
+<programme start="20240827160900 +0300" stop="20240827163300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">כאן גרים בכיף 2 - רילוקיישן</title>
+    <desc lang="ru">ענת מקבלת הצעה לרילוקיישן בצ'ילה. היא מראה לכולם את הוילה המפוארת שהם עומדים לקבל. יהלי מתלהב ומתחיל ללמוד ספרדית, אביבה מודאגת שהילדים יתבוללו, דניאל נפרד מאלכס, וקובי רוצה לבוא עם יאיר ולפתוח עסק.</desc>
+</programme>
+<programme start="20240827163300 +0300" stop="20240827165800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">כאן גרים בכיף 2 - נא להכיר</title>
+    <desc lang="ru">ענת נאבקת להעיר את הילדים בבוקר ומבקשת עזרה מחומי עם פעילויות אחרי הצהריים. חומי עוזר, בדרכו שלו. כ' עב'.</desc>
+</programme>
+<programme start="20240827165800 +0300" stop="20240827174500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ארץ נהדרת - הקניון</title>
+    <desc lang="ru">ארץ נהדרת חוזרת לעונה חדשה בבית חדש: עם אייל קיציס, אסי כהן, ערן זרחוביץ', אלי פיניש, מריאנו אידלמן, שני כהן, ליאת הר לב, עלמה זק, רועי בר נתן, יובל סמו, אודי כגן, ירון ברלד ותום יער. כ עב.</desc>
+</programme>
+<programme start="20240827174500 +0300" stop="20240827183500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">מה זה השטויות האלה? 4 - הודו, א'</title>
+    <desc lang="ru">בידור. עדי אשכנזי יוצאת לטיול של אחרי אחרי הצבא. עם שתי צעירות נוספות היא מגיעה לניו דלהי הדביקה, פוגשת בעיירה קאסול את הישראלים המעושנים, מתלבטת אם לעשן גם ומחפשת את עצמה במסיבת טראנס. כ עב.</desc>
+</programme>
+<programme start="20240827183500 +0300" stop="20240827190300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">צומת מילר 3 - השיחה</title>
+    <desc lang="ru">אדיר מבואס מזה שמאיה כועסת עליו ולא מוכנה לסלוח עד שהם לא ינהלו שיחה. רותם יוצאת עם בחור חדש, אך משהו קטן מפריע לה מאוד. אנאלי מגלה שלפטר מנקה בישראל זו טעות חמורה. כ' עב.</desc>
+</programme>
+<programme start="20240827190300 +0300" stop="20240827193300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">צומת מילר 3 - אנאלי במוסד</title>
+    <desc lang="ru">אנאלי מתרגשת בטירוף לאחר שקיבלה זימון לפגישה במוסד. רותם פוגשת בחור מצליח בעל עסק לגבינות אך לא ממש מצליח לה איתו. אדיר מגלה שמאיה מרכלת עליו בלי סוף עם חברותיה. כ' עב.</desc>
+</programme>
+<programme start="20240827193300 +0300" stop="20240827195800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">נבסו 2 - העירום</title>
+    <desc lang="ru">ניצה ותמר נרשמות לסדנת ציור וניצה נזכרת בחלום ישן שהיה לה לדגמן בעירום. לגילי מנדנדים מהמילואים והוא מגלה שאם הוא יחזור לשם האתיופי שלו הוא יצליח להעלם לרשויות.</desc>
+</programme>
+<programme start="20240827195800 +0300" stop="20240827202300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">נבסו 2 - מי יקבור את מי בזוגיות?</title>
+    <desc lang="ru">ניצה ויעקב מבקרים את ראובן שנזקק לסיעוד וניצה מקנאה בעזרה שמקבל יעקב מהפיליפינית שגרה איתם.</desc>
+</programme>
+<programme start="20240827202300 +0300" stop="20240827205000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">רמזור 2 - שיעורי בית</title>
+    <desc lang="ru">איצקו עוזר לדניאל בשיעורי הבית שלה בחשבון וטועה. דניאל מאבדת באביה את האמון והוא יוצא להשיב אותו. אמיר מגלה לחרדתו שטלי נוחרת, אך מה שמעצבן אותו יותר זה שהיא מכחישה. כ' עב.</desc>
+</programme>
+<programme start="20240827205000 +0300" stop="20240827211500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">רמזור 2 - אשה מחליפה</title>
+    <desc lang="ru">אמיר שם לב שכל מתנה שהוא קונה לטלי היא תמיד מחליפה. אפילו פתק החלפה היא מחליפה. חפר יוצא עם מירב מניסן, סטודנטית למשחק נלהבת מדי. המטפלת הזוגית שולחת את איצקו למשימה: לגרום ללילך לקנא. כ' עב.</desc>
+</programme>
+<programme start="20240827211500 +0300" stop="20240827214300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 - סיפור אהבה בלתי נשכח</title>
+    <desc lang="ru">סיפור אהבה בלתי נשכח: שלום מתאהב ביסמין הערבייה. איך משפחת אסייג תקבל את זה? כ' עב'.</desc>
+</programme>
+<programme start="20240827214300 +0300" stop="20240827221100 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 - קוביות מזל</title>
+    <desc lang="ru">קוביות מזל: שיגעון הקובייה ההונגרית נוחת בבית משפחת אסייג. כ' עב'.</desc>
+</programme>
+<programme start="20240827221100 +0300" stop="20240827223600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">חברות 4 - שקרים והונאות קלות</title>
+    <desc lang="ru">נועה וארז מגלים שליה משקרת למורים ומזייפת חתימות, שני רבה עם ההורים ומנתקת איתם קשר ופזית מוצאת את הדרך לאושר. עם ליטל שוורץ, מגי אזרזר, קובי מימון, לירון וייסמן, לרית בלבן ועוד.</desc>
+</programme>
+<programme start="20240827223600 +0300" stop="20240827230100 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">חברות 4 - התקף חרדה</title>
+    <desc lang="ru">עונה חדשה עם ליטל שוורץ, מגי אזרזר, קובי מימון, לירון וייסמן, לרית בלבן ועוד. נועה מקבלת התקף חרדה ומנסה לטפל ע''י כדורים, פזית מכינה את יובל למבחנים אך הוא כל הזמן נכשל ושני מנסה לפרוץ כדוגמנית. כ' עב.</desc>
+</programme>
+<programme start="20240827230100 +0300" stop="20240827233600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">צומת מילר 3 - טיול שנתי</title>
+    <desc lang="ru">יהלי מבקשת מאדיר להצטרף אליה כהורה מלווה בטיול שנתי ומגלה כי עשתה טעות חמורה. רותם מתחילה לעבוד בתגלית כדי למצוא חתן אמריקאי עשיר. פטר מתמנה ליו''ר וועד הבית.</desc>
+</programme>
+<programme start="20240827233600 +0300" stop="20240828001000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">צומת מילר 3 - אבא נרדם</title>
+    <desc lang="ru">אווה מתלוננת על כך שפטר נרדם בכל סיטואציה. אדיר מסתבך עם מה להביא למדורה בלג בעומר ואנאלי לראשונה מגלה איך מתנהלת מערכת הבריאות הציבורית בישראל.</desc>
+</programme>
+<programme start="20240828001000 +0300" stop="20240828004000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 4 - הצוואה</title>
+    <desc lang="ru">רבי מאיר נקלע לבעיית בריאות חמורה ומסכנת חיים, מה שמוביל למלחמת ירושה מלוכלכת בין מרסל אחיו לבין שני ילדיו. בינתיים, שלום ומני פותחים דוכן למכירת ספרים משומשים לקראת פתיחת שנת הלימודים. כ' עב'.</desc>
+</programme>
+<programme start="20240828004000 +0300" stop="20240828010800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">רמזור 3 - ייעוץ גנטי</title>
+    <desc lang="ru">אמיר וטלי מגיעים לחברת הייג'ין המתמחה בבדיקות גנטיות לעובר והם נשאבים לסחרחרת של תחרות גנטית המובילה לשרשרת בדיקות מוזרות ביותר. איצקו נכנס לטירוף כשלדניאל יש בכיתה חבר ''זכר'' חדש. כ' עב.</desc>
+</programme>
+<programme start="20240828010800 +0300" stop="20240828013400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">רמזור 3 - לא נותנת לנוח</title>
+    <desc lang="ru">אמיר מגלה שלטלי קשה לראותו סתם כך שוכב ונח. בכל פעם שהוא נח, היא מבקשת ממנו לעזור במטלות הבית, אמיר מחליט להשיב מלחמה. ללילך נמאס שחפר משתמש על בסיס יומי בשירותים שלהם בבית. כ' עב.</desc>
+</programme>
+<programme start="20240828013400 +0300" stop="20240828020000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">אחד העם 101 - החברה הגבוהה</title>
+    <desc lang="ru">מירי פסקל מצטרפת לעשירון העליון והופכת להיות החברה הכי טובה של שולה. כ' עב'.</desc>
+</programme>
+<programme start="20240828020000 +0300" stop="20240828022200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">עם סגולה - הכניסה אסורה</title>
+    <desc lang="ru">שלישיית ''מה קשור'' עם דמויות ישראליות שונות ומגוונות וביניהם - אביהו, נתי ובצלאל שנסעו לתאילנד על מנת לחלץ את שולי שמוחזק בכלא. כ' עב'.</desc>
+</programme>
+<programme start="20240828022200 +0300" stop="20240828024600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">דובדבני וקובץ' - הסיוט של משה איבגי</title>
+    <desc lang="ru">פרק סיום עונה - דובדבני וקובץ' הם חברי ילדות שעובדים יחד, חולקים דירה שכורה, ומעת לעת מסתבכים בכל צרה אפשרית. והפעם: צילום פפראצי פשוט של משה איבגי משתבש בצורה הגרועה ביותר שאפשר לדמיין. כ' עב.</desc>
+</programme>
+<programme start="20240828024600 +0300" stop="20240828031600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">יום האם - פרק 9</title>
+    <desc lang="ru">בת המצווה של תמרה בפתח ואלה מפתחת הפרעת אכילה: היא רואה שהילדה אוכלת וזה מפריע לה מאוד. מושו מגלה שלמיכאל יש חבר שמעשן. כ' עב'.</desc>
+</programme>
+<programme start="20240828031600 +0300" stop="20240828034100 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">שחקן זר - פרק 4</title>
+    <desc lang="ru">הדוד הפרזיט והעצלן של המשפחה מגיע לביקור בלונדון ומתנחל בבית המשפחה לתקופה בלתי מוגבלת. מה פרדי יגלה עליו? וגם: אדיר ונופית מנסים למצוא חברים ב''רמה'' שלהם. כ' עב.</desc>
+</programme>
+<programme start="20240828034100 +0300" stop="20240828040700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל) עונה 2 - שובו של הנחום</title>
+    <desc lang="ru">נחום, האקס של רותי, חוזר לחייה אחרי שנפרד מבת זוגתו הצעירה. הבנות עושות יד אחת להעיף אותו מהבית. כ' עב'.</desc>
+</programme>
+<programme start="20240828040700 +0300" stop="20240828043500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל) עונה 2 - בעיה קטנה</title>
+    <desc lang="ru">שוש מקפידה להסתיר מהבנות את זהותו של החבר החדש שלה, הסיבה לכך עתידה להפתיע את כולן, אבל לא כמו סוד אחר שמסתובב בסביבה. דליה מנסה לפתות את רותי לערב בנות עסיסי במיוחד. ולמה ריבה כל כך כועסת? כ' עב'.</desc>
+</programme>
+<programme start="20240828043500 +0300" stop="20240828045900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">הנחלה - הרב פיילוט חלק ב'</title>
+    <desc lang="ru">אריק מגלה שהוא נכד של רב גדול ומתקרב אל הדת. פאדי מבריז לשירין בגלל דפנה שוב ושוב, עד שהיא נפרדת ממנו סופית. כ' עב'.</desc>
+</programme>
+<programme start="20240828045900 +0300" stop="20240828052300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">מה שבע - זמן עם אמא</title>
+    <desc lang="ru">דודי רוצה לבלות כמה שיותר עם אמא שלו, אבשי הופך לכוכב בגלל כתבה במאקו ודלית לא מצליחה לריב עם השכנה כי הילדים כל הזמן מפריעים לה. כ' עב'.</desc>
+</programme>
+<programme start="20240828052300 +0300" stop="20240828054800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">מ.ק. 22 - שבת בבסיס</title>
+    <desc lang="ru">אנימציה. 2. שבת בבסיס: שוקרון מתלהב ממנורת הכנסת, לוקח אותה לבסיס, אך נתפס. כעונש, כל החיילים נשארים שבת. המשפחות ההמומות מגיעות לבקר וסודות אפלים מן העבר נחשפים. כ' עב.</desc>
+</programme>
+<programme start="20240828054800 +0300" stop="20240828062100 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">מה זה השטויות האלה? - ניתוחים פלסטיים</title>
+    <desc lang="ru">ניתוחים פלסטיים - ''מה יותר טבעי מזה?'' עדי מתלבטת, בודקת וחושבת על ניתוח פלסטי, ונפגשת עם בחורות לפני ניתוח הגדלת חזה בחדר המתנה של קליניקה, שם מציירים על גופה שיפורים אופציונאלים בחסות הפלסטיקה. כ' עב.</desc>
+</programme>
+<programme start="20240828062100 +0300" stop="20240828064500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">הישראלים - ישיבת קבינט דחופה</title>
+    <desc lang="ru">''הישראלים'' בכיכובם של שלישיית ''מה קשור'' הינה דרמה קומית עם מבחר מערכונים מקוריים העוסקים בנושאים החשובים ביותר בחברה הישראלית - אבטלה, ממשלה, ספורט ועוד.</desc>
+</programme>
+<programme start="20240828064500 +0300" stop="20240828071300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל) עונה 2 - מסורת</title>
+    <desc lang="ru">אחותה של רותי מגיעה לביקור מולדת בדיוק כשרותי כבר לא מסוגלת יותר לסבול את ירידותיה של ריבה, ומסתדרת עם ריבה קצת יותר מדי טוב. שוש ודליה מנהלות מלחמת דיוות בהפקת חובבים של ''כנר על הגג''. כ' עב'.</desc>
+</programme>
+<programme start="20240828071300 +0300" stop="20240828073700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל) עונה 2 - לב של אמא</title>
+    <desc lang="ru">וירוס מסתורי משבית את כל בנות הבית וגורם לרותי להבין שאמא שלה לא תישאר איתה לנצח. כ' עב'.</desc>
+</programme>
+<programme start="20240828073700 +0300" stop="20240828080000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">סברי מרנן 2 - אוכל</title>
+    <desc lang="ru">שי ושני מחליטים לפצוח בדיאטה בדיוק כשפנחס מזמין שפית צרפתייה לבשל את ארוחת יום השישי במקום ריקי. עם: רותם אבוהב, דביר בנדק, סנדרה שדה, טוביה צפיר ועוד. כ' עב.</desc>
+</programme>
+<programme start="20240828080000 +0300" stop="20240828082500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">סברי מרנן 2 - הקרב על הוועד</title>
+    <desc lang="ru">סילבן חסון מתמודד על ראשות הוועד בבניין וכולם נרתמים לעזור בקמפיין. חוץ ממירב שחושדת שמשה בוגד באורנה. עם: רותם אבוהב, דביר בנדק, סנדרה שדה, טוביה צפיר ועוד. כ' עב.</desc>
+</programme>
+<programme start="20240828082500 +0300" stop="20240828090200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">מה זה השטויות האלה? 2 - ציונות</title>
+    <desc lang="ru">עדי אשכנזי במסע דוקו קומי, מנסה להבין אם טוב לנו פה או לא. במהלך הפרק היא מקלקלת קבלת פנים לעולים חדשים, מסתובבת ברחבי הארץ בקלנועית, ומוצאת שידוך מפתיע למורן אטיאס. כ' עב.</desc>
+</programme>
+<programme start="20240828090200 +0300" stop="20240828093100 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">פולישוק - פרק 2</title>
+    <desc lang="ru">פרק 2: סדרה קומית-דרמטית המלווה את הקריירה הסוערת של רובי פולישוק, ח''כ אלמוני ממפלגת מל''ל. פולישוק מתראיין לגל''צ והופך בדיחת היום. הוא מבין שהוא נתפס כאפיזודה חולפת ומחליט לאייש את הלשכה באנשיו. כ עב.</desc>
+</programme>
+<programme start="20240828093100 +0300" stop="20240828095800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל) עונה 2 - מסורת</title>
+    <desc lang="ru">אחותה של רותי מגיעה לביקור מולדת בדיוק כשרותי כבר לא מסוגלת יותר לסבול את ירידותיה של ריבה, ומסתדרת עם ריבה קצת יותר מדי טוב. שוש ודליה מנהלות מלחמת דיוות בהפקת חובבים של ''כנר על הגג''. כ' עב'.</desc>
+</programme>
+<programme start="20240828095800 +0300" stop="20240828102200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">בנות הזהב (ישראל) עונה 2 - לב של אמא</title>
+    <desc lang="ru">וירוס מסתורי משבית את כל בנות הבית וגורם לרותי להבין שאמא שלה לא תישאר איתה לנצח. כ' עב'.</desc>
+</programme>
+<programme start="20240828102200 +0300" stop="20240828104900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">החיים זה לא הכל 9 - כוכבת נוצצת</title>
+    <desc lang="ru">מה הקשר בין אורלי, סטנדאפ, טיפול שיניים וגדי? כ' עב'.</desc>
+</programme>
+<programme start="20240828104900 +0300" stop="20240828111200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">החיים זה לא הכל 9 - אתה מופתע?!</title>
+    <desc lang="ru">מי היה מאמין שחגיגת יום נישואין יכולה להיות כל כך מפתיעה? כ' עב'.</desc>
+</programme>
+<programme start="20240828111200 +0300" stop="20240828113500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">סברי מרנן 2 - שווה בשווה בשווה</title>
+    <desc lang="ru">פנחס וריקי רוזן כותבים צוואה. איך מתמודדים שי איתמר ואדם עם הידיעה שההורים לא יהיו איתם לתמיד.</desc>
+</programme>
+<programme start="20240828113500 +0300" stop="20240828115800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">סברי מרנן 2 - בריתת מצווה</title>
+    <desc lang="ru">פרק סיום חגיגי שמתרחש באולם שבו נערכת בת המצווה של בתם של אורנה ומשה והבריתה של בתם של שי ושני, כך שלמשפחות רוזן וחסון נוספים גם הכ''צים. כ' עב.</desc>
+</programme>
+<programme start="20240828115800 +0300" stop="20240828124000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">מה זה השטויות האלה? 4 - הודו, ב'</title>
+    <desc lang="ru">בידור. 10. הודו, ב': עדי רבה עם השותפות שלה לטיול ויוצאת לגלות את הודו האמתית. כך היא עוברת להתגורר עם משפחה הודית, מקבלת טיפול בעלוקות, פוגשת גורו, מאבדת את הכסף ונכנסת לסדנת שתיקה. כ עב.</desc>
+</programme>
+<programme start="20240828124000 +0300" stop="20240828130400 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">כאן גרים בכיף 2 - רילוקיישן</title>
+    <desc lang="ru">ענת מקבלת הצעה לרילוקיישן בצ'ילה. היא מראה לכולם את הוילה המפוארת שהם עומדים לקבל. יהלי מתלהב ומתחיל ללמוד ספרדית, אביבה מודאגת שהילדים יתבוללו, דניאל נפרד מאלכס, וקובי רוצה לבוא עם יאיר ולפתוח עסק.</desc>
+</programme>
+<programme start="20240828130400 +0300" stop="20240828132900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">כאן גרים בכיף 2 - נא להכיר</title>
+    <desc lang="ru">ענת נאבקת להעיר את הילדים בבוקר ומבקשת עזרה מחומי עם פעילויות אחרי הצהריים. חומי עוזר, בדרכו שלו. כ' עב'.</desc>
+</programme>
+<programme start="20240828132900 +0300" stop="20240828135900 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">הפרלמנט - סוד האהבה</title>
+    <desc lang="ru">הפרלמנט של שאולי, שהתחיל כמערכון שבועי בארץ נהדרת, זוכה לספין-אוף והופך לתכנית בפני עצמה, שמלווה את החיים ההזויים של חמשת הגיבורים בחיים שמעבר לפגישה השבועית בשולחן. כ' עב.</desc>
+</programme>
+<programme start="20240828135900 +0300" stop="20240828142300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">חברות 3 - מישהו לרוץ אחריו</title>
+    <desc lang="ru">ארז הולך לקבוצת ריצה ונועה מחליטה להצטרף לקבוצת ריצה של ורד. שני נפרדת מזונה שפורשת מהמקצוע ומקבלת ממנה עצה טובה. או לא. כ' עב.</desc>
+</programme>
+<programme start="20240828142300 +0300" stop="20240828144800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">חברות 3 - חקירת רצח</title>
+    <desc lang="ru">פזית באה לעבוד בעסק הקובות של ניסים ומגלה שם פרטים שמזעזעים את עולמה, נועה מוצאת את ארז ישן באוטו בזמן שהיא מתזזת עם הבנות ושני נשאבת לחקירת רצח שכוללת מותגי יוקרה והמון זוגות נעליים. כ' עב.</desc>
+</programme>
+<programme start="20240828144800 +0300" stop="20240828151300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - הכנסת הספר</title>
+    <desc lang="ru">גבאי מפרסם את הדירה למכירה וגורם למאבק בין רודפי נדל''ן. פרוספר נתון כולו בארגון ההכנסה החגיגית של ספר התורה. כ' עב'.</desc>
+</programme>
+<programme start="20240828151300 +0300" stop="20240828153700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 עונה 5 - פספוסים</title>
+    <desc lang="ru">שמרנו את הכי טוב לסוף! פרק פספוסים שאסור לכם לפספס בחיים עם כל הקטעים הקורעים מכל עונות הסדרה. כ' עב'.</desc>
+</programme>
+<programme start="20240828153700 +0300" stop="20240828160000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">סברי מרנן 2 - חשיפה לדרום</title>
+    <desc lang="ru">בזמן שההורים יצאו לחופשת הכל כלול בים המלח, מירב מנצלת את הבית הריק לסדרת רישום. שחקן אורח: רובי דואניאס. כ' עב.</desc>
+</programme>
+<programme start="20240828160000 +0300" stop="20240828162300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">סברי מרנן 2 - להמר בגדול</title>
+    <desc lang="ru">שני, שמנסה להשיל משקל עודף אחרי הלידה, גורמת לכולם לעשות תחרות דיאטה ובעיקר להמר על הזוכה.</desc>
+</programme>
+<programme start="20240828162300 +0300" stop="20240828164800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">כאן גרים בכיף 2 - יום כיפור</title>
+    <desc lang="ru">ציפי, הסבתא העשירה ואמא של ענת, מגיעה לביקור מלוס אנג'לס וכולם מחפשים מתנות ופינוקים. עם הביקורת שלה, הם פחות מסתדרים. כ' עב'.</desc>
+</programme>
+<programme start="20240828164800 +0300" stop="20240828171300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">כאן גרים בכיף 2 - משברים</title>
+    <desc lang="ru">שבוע קשה עובר על משפחת שלו. ענת נאבקת בניילון הנצמד, דניאל בקריזה על אלכס, קובי רב עם אשתו ויאיר נרשם לקורס טיס בלי להגיד לענת. כ' עב'.</desc>
+</programme>
+<programme start="20240828171300 +0300" stop="20240828174000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ארץ נהדרת - הקופאית לובה</title>
+    <desc lang="ru">לובה לקופה ראשית: מיטב המערכונים של הקופאית האגדית לובה. יש כרטיס מועדון? כ' עב'.</desc>
+</programme>
+<programme start="20240828174000 +0300" stop="20240828182200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">מה זה השטויות האלה? 4 - הודו, ב'</title>
+    <desc lang="ru">בידור. 10. הודו, ב': עדי רבה עם השותפות שלה לטיול ויוצאת לגלות את הודו האמתית. כך היא עוברת להתגורר עם משפחה הודית, מקבלת טיפול בעלוקות, פוגשת גורו, מאבדת את הכסף ונכנסת לסדנת שתיקה. כ עב.</desc>
+</programme>
+<programme start="20240828182200 +0300" stop="20240828185700 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">צומת מילר 3 - טיול שנתי</title>
+    <desc lang="ru">יהלי מבקשת מאדיר להצטרף אליה כהורה מלווה בטיול שנתי ומגלה כי עשתה טעות חמורה. רותם מתחילה לעבוד בתגלית כדי למצוא חתן אמריקאי עשיר. פטר מתמנה ליו''ר וועד הבית.</desc>
+</programme>
+<programme start="20240828185700 +0300" stop="20240828193100 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">צומת מילר 3 - אבא נרדם</title>
+    <desc lang="ru">אווה מתלוננת על כך שפטר נרדם בכל סיטואציה. אדיר מסתבך עם מה להביא למדורה בלג בעומר ואנאלי לראשונה מגלה איך מתנהלת מערכת הבריאות הציבורית בישראל.</desc>
+</programme>
+<programme start="20240828193100 +0300" stop="20240828195800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">נבסו 2 - החיה הלא נכונה</title>
+    <desc lang="ru">גילי מתקשה לקבל את העלויות הגבוהות של הטיפול הרפואי בשרקן שלו וניצה חושדת שגילי לא אומר את האמת ביחס למצב שבו הוא נמצא.</desc>
+</programme>
+<programme start="20240828195800 +0300" stop="20240828202200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">נבסו 2 - אני והחבר'ה</title>
+    <desc lang="ru">תמר מגלה שגילי לא מזמין אליהם חברים ואומר שזה בגללה, שהיא נורא עסוקה. גילי טוען שהוא רוצה לחסוך לה את הטרחה אבל תמר מתעקשת להזמין את החבר'ה של גילי שנתקעים אצלם ימים ארוכים.</desc>
+</programme>
+<programme start="20240828202200 +0300" stop="20240828204800 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">רמזור 2 - אילת</title>
+    <desc lang="ru">כל החבורה יורדת לחופשה באילת. אבל מה קורה כשאמיר מגלה שטלי קיבלה בול בחופשה? מה קורה ללילך כשהיא מגלה שהחדר של אמיר וטלי יותר שווה? מה קורה לחפר כשהוא מגלה שנתקע בלי מזומן לשלם לנערת הליווי? כ' עב.</desc>
+</programme>
+<programme start="20240828204800 +0300" stop="20240828211300 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">רמזור 2 - עבריין סופר</title>
+    <desc lang="ru">איצקו רעב וכהרגלו קופץ לסופר לנשנש, אלא שבדיוק היום הנהלת הסופר מחליטה לשים לזה סוף. אמיר וטלי מגלים שהוא לא סובל את החברים שלה והיא את שלו. הם מחליטים לאתר זוג חברים חדש ששייך רק לשניהם. כ' עב.</desc>
+</programme>
+<programme start="20240828211300 +0300" stop="20240828214200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 - ליכוד או מערך</title>
+    <desc lang="ru">ליכוד או מערך: כיצד המשפחה תתמודד עם החתן המערכניק? כ' עב.</desc>
+</programme>
+<programme start="20240828214200 +0300" stop="20240828221100 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">ספיישל שנות ה-80 - לו הייתי רוטשילד</title>
+    <desc lang="ru">לו הייתי רוטשילד: שגעון הטוטומאניה נוחת בטירת הכרמל וכולם רצים למלא טפסים! מי יהיה הזוכה? כ' עב.</desc>
+</programme>
+<programme start="20240828221100 +0300" stop="20240828223600 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">חברות 4 - ההשתלה</title>
+    <desc lang="ru">ארז פוגש חבר שהשתיל בלורית בטורקיה והוא רוצה גם, שני רואה במקרה את משיח עירום והתמונה לא יוצאת לה מהראש. כ' עב.</desc>
+</programme>
+<programme start="20240828223600 +0300" stop="20240828230000 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">חברות 4 - פלירטוטים</title>
+    <desc lang="ru">לנועה נמאס שארז מפלרטט והיא מחליטה להחזיר לו, שני מדריכה תיכוניסטים שמתנדבים במשטרה. עם: ליטל שוורץ, מגי אזרזר, קובי מימון, לירון וייסמן, לרית בלבן ועוד. כ' עב.</desc>
+</programme>
+<programme start="20240828230000 +0300" stop="20240828233200 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">צומת מילר 3 - רפי מסאג'</title>
+    <desc lang="ru">קומי. אנאלי מסתבכת עם חברה קדישא לאחר שדודתה מתה ובצוואתה ביקשה להיקבר בארץ הקודש. אדיר פוגש ברפי מסאג שמתעקש לעשות לאדיר מסאג בכל מקום אפשרי. כ' עב'.</desc>
+</programme>
+<programme start="20240828233200 +0300" stop="20240829002500 +0300" channel="humor-channel-il-hd">
+    <title lang="ru">צומת מילר 3 - משה פרץ</title>
+    <desc lang="ru">גולן מקנא לאנאלי ומוטרד מכך שהיא מאוהבת בזמר משה פרץ. העניינים מסתבכים לאחר שהם הולכים להופעה שלו. עופר מסתבך עם אפי פלצטף, יחצ''ן שנותן מתנות למפורסמים עבור תמונה. כ' עב'.</desc>
+</programme>

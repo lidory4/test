@@ -6,7 +6,7 @@
         <group-title>IL| HEBREW VIP HD/4K</group-title>
     </channel>
 
-    <programme start="20240827110400 +0300" stop="20240827134000 +0300" channel="IsraeliCinema.il">
+    <programme start="20240827110400 +0000" stop="20240827134000 +0300" channel="IsraeliCinema.il">
         <title lang="he">אדון לאון</title>
         <desc lang="he">סרט בכיכובו של אדון לאון.</desc>
         <category>Movie</category>

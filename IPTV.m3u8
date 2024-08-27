@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="###### HEBREW PARTNER TV VIP ######" tvg-logo="" group-title="IL| HEBREW PARTNER TV VIP",###### HEBREW PARTNER TV VIP ######
 http://drawn81293.cdngold.me:80/03ecb129d0d5/7ae64c2b8c/822252
 #EXTINF:-1 tvg-id="" tvg-name="IL: PARTNER TV MOVIES ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12193.jpg?31716" group-title="IL| HEBREW PARTNER TV VIP",IL: PARTNER TV MOVIES ᴴᴰ
@@ -578,7 +579,3 @@ http://drawn81293.cdngold.me:80/03ecb129d0d5/7ae64c2b8c/669766
 http://drawn81293.cdngold.me:80/03ecb129d0d5/7ae64c2b8c/669765
 #EXTINF:-1 tvg-id="YesMoviesAction.il" tvg-name="IL: YES MOVIES ACTION 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13345.jpg?51967" group-title="IL| HEBREW HD/4K",IL: YES MOVIES ACTION 4K
 http://drawn81293.cdngold.me:80/03ecb129d0d5/7ae64c2b8c/669764
-#EXTINF:-1 tvg-id="YesMoviesDrama.il" tvg-name="IL: YES MOVIES DRAMA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13344.jpg?29106" group-title="IL| HEBREW HD/4K",IL: YES MOVIES DRAMA 4K
-http://drawn81293.cdngold.me:80/03ecb129d0d5/7ae64c2b8c/669763
-#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-name="NOW: SKY CINEMA DRAMA ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12172.jpg?48457" group-title="UK| NOW ENTERTAINMENT ᴴᴰ ᴳᴼᴸᴰ",NOW: SKY CINEMA DRAMA ᴴᴰ
-http://drawn81293.cdngold.me:80/03ecb129d0d5/7ae64c2b8c/842229

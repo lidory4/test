@@ -5,12 +5,7 @@
         <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6079.jpg?40101" />
         <group-title>IL| HEBREW VIP HD/4K</group-title>
     </channel>
-
-
     
-    <programme start="20240822190800 +0300" stop="20240822193200 +0300" channel="humor-channel-il-hd">
-        <title lang="ru">כאן גרים בכיף 2</title>
-    </programme>
     <programme start="20240822193200 +0300" stop="20240822200900 +0300" channel="humor-channel-il-hd">
         <title lang="ru">ארץ נהדרת</title>
     </programme>

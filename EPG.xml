@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <channel id="TS">
-        <display-name>IL: HOT HUMOR HD ◉</display-name>
-        <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6079.jpg?40101" />
-        <group-title>IL| HEBREW VIP HD/4K</group-title>
+    <channel id="humor-channel-il-hd">
+        <display-name>ערוץ ההומור</display-name>
+        <icon src="https://af-play.com/storage/images/channel_logos/7075814ec613898414e1723ceb7f389c.png" />
+        <group-title>Israel</group-title>
     </channel>
 
-    <programme start="20240826000000 +0000" stop="20240827000000 +0000" channel="TS">
-        <title>Marathon Comedy Show</title>
-        <desc>A continuous stream of the best comedy shows and stand-up performances from around the world.</desc>
-        <category>Comedy</category>
+    <programme start="20240819122200 +0300" stop="20240819124700 +0300" channel="humor-channel-il-hd">
+        <title lang="ru">כאן גרים בכיף 2 - חברים</title>
+        <desc lang="ru">ענת לא סובלת את אלכס, החברה של דניאל, אבל מזמינה אותה לסיבוב בקניון. עמרי מביא את הלהקה שלו לחזרות בבית בדיוק כשענת רוצה לנוח צהריים. כ' עב'.</desc>
     </programme>
+    
+    <!-- Additional programme entries here -->
 </tv>

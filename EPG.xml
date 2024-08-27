@@ -1,35 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <channel id="humor-channel-il-hd">
-        <display-name lang="ru">Humor Channel HD</display-name>
-        <icon src="https://antifriz.tv/storage/images/channel_logos/7075814ec613898414e1723ceb7f389c.png"/>
+    <channel id="TS">
+        <display-name>IL: HOT HUMOR HD ◉</display-name>
+        <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6079.jpg?40101" />
+        <group-title>IL| HEBREW VIP HD/4K</group-title>
     </channel>
 
-    <programme start="20240819115700 +0300" stop="20240819122200 +0300" channel="humor-channel-il-hd">
+    <programme start="20240824000000 +0000" stop="20240827000000 +0000" channel="TS">
+        <title>Marathon Comedy Show</title>
+        <desc>A continuous stream of the best comedy shows and stand-up performances from around the world.</desc>
+        <category>Comedy</category>
+    </programme>
+
+    <programme start="20240819115700 +0300" stop="20240819122200 +0300" channel="TS">
         <title lang="ru">כאן גרים בכיף 2 - משבר כלכלי</title>
         <desc lang="ru">החשבון בבנק מעוקל ואין ברירה אלא להיכנס לתכנית קיצוצים. עוברים לנסוע באוטו אחד, שמסיים את היום במוסך. יאיר חוסך בחשמל אבל הורס את המזגן והמקרר. כ' עב'.</desc>
     </programme>
 
-    <programme start="20240819122200 +0300" stop="20240819124700 +0300" channel="humor-channel-il-hd">
+    <programme start="20240819122200 +0300" stop="20240819124700 +0300" channel="TS">
         <title lang="ru">כאן גרים בכיף 2 - חברים</title>
         <desc lang="ru">ענת לא סובלת את אלכס, החברה של דניאל, אבל מזמינה אותה לסיבוב בקניון. עמרי מביא את הלהקה שלו לחזרות בבית בדיוק כשענת רוצה לנוח צהריים. כ' עב'.</desc>
     </programme>
 
-    <programme start="20240819155000 +0300" stop="20240819161400 +0300" channel="humor-channel-il-hd">
+    <programme start="20240819155000 +0300" stop="20240819161400 +0300" channel="TS">
         <title lang="ru">כאן גרים בכיף 2 - חופש</title>
         <desc lang="ru">החופש הגיע וענת מסדרת לכולם שלל פעילויות. יהלי מודח מקייטנת הישרדות, דניאל ישן כל היום ובלילה יוצא לבלות כשהוא לבוש בשמלה. ענת עובדת בגינה ויהלי עוקר לה את כל הנענע. כ' עב'.</desc>
     </programme>
 
-    <programme start="20240819161400 +0300" stop="20240819163700 +0300" channel="humor-channel-il-hd">
+    <programme start="20240819161400 +0300" stop="20240819163700 +0300" channel="TS">
         <title lang="ru">כאן גרים בכיף 2 - צ'אבי</title>
         <desc lang="ru">ענת נכנעת ומרשה לילדים ולשלי להביא חיות הביתה. חומי נאבק באלרגיות שלו לחיות, שלאט לאט מתחילות להשתלט על הבית. כ' עב'.</desc>
     </programme>
 
-    <programme start="20240820150500 +0300" stop="20240820152900 +0300" channel="humor-channel-il-hd">
+    <programme start="20240820150500 +0300" stop="20240820152900 +0300" channel="TS">
         <title lang="ru">כאן גרים בכיף 2</title>
     </programme>
 
-    <programme start="20240820152900 +0300" stop="20240820155200 +0300" channel="humor-channel-il-hd">
+    <programme start="20240820152900 +0300" stop="20240820155200 +0300" channel="TS">
         <title lang="ru">כאן גרים בכיף 2</title>
     </programme>
 </tv>

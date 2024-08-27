@@ -12,4 +12,16 @@
         <category>Comedy</category>
     </programme>
 
+    <channel id="TS2">
+        <display-name>IsraeliCinema.il</display-name>
+        <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6079.jpg?40101" />
+        <group-title>IL| HEBREW VIP HD/4K</group-title>
+    </channel>
+
+    <programme start="20240827120400 +0300" stop="20240827134000 +0300" channel="TS2">
+        <title>Marathon Comedy Show</title>
+        <desc>A continuous stream of the best comedy shows and stand-up performances from around the world.</desc>
+        <category>Comedy</category>
+    </programme>
+
 </tv>

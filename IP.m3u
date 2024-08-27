@@ -1,3 +1,5 @@
-#EXTINF:0 group-title="Israel" tvg-id="humor-channel-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/7075814ec613898414e1723ceb7f389c.png" tvg-rec="7" catchup-days="7",Humor Channel HD
+#EXTINF:0 tvg-id="humor-channel-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/7075814ec613898414e1723ceb7f389c.png" tvg-rec="7" catchup-days="7",Humor Channel HD
 #EXTGRP:Israel
 http://bethoven.af-stream.com:80/humor-channel-il-hd/mpegts?token=deauzqdu
+#EXTINF:-1 tvg-id="humor-channel-il-hd" tvg-name="humor-channel-il-hd" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6079.jpg?40101" group-title="IL| HEBREW VIP HD/4K",IL: HOT HUMOR HD ◉
+http://drawn81293.cdngold.me:80/03ecb129d0d5/7ae64c2b8c/876641

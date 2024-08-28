@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="IsraeliCinema.il" tvg-name="IL: ISRAIL CINEMA 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6472.png?41536" group-title="IL| HEBREW VIP HD/4K",IL: ISRAIL CINEMA 4K ◉
 http://bethoven.af-stream.com:80/hot-israeli-cinema-il-hd/mpegts?token=3naei0f7
-#EXTINF:-1 tvg-id="HOTCinema1.il" tvg-name="IL: HOT CINEMA 1 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3126.png?ver=27067" group-title="IL| HEBREW VIP HD/4K",IL: HOT CINEMA 1 4K ◉
-http://drawn81293.cdngold.me:80/03ecb129d0d5/7ae64c2b8c/603177
-#EXTINF:-1 tvg-id="IsraeliChildhood.il" tvg-name="IL: YES ISRAEL CINEMA 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3257.jpg?29028" group-title="IL| HEBREW VIP HD/4K",IL: YES ISRAEL CINEMA 4K ◉
-http://drawn81293.cdngold.me:80/03ecb129d0d5/7ae64c2b8c/477545
-#EXTINF:-1 tvg-id="TS" tvg-name="IL: HOT HUMOR HD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6079.jpg?40101" group-title="IL| HEBREW VIP HD/4K",IL: HOT HUMOR HD ◉
-http://bethoven.af-stream.com:1600/s/3naei0f7/humor-channel-il-hd/video.m3u8
 #EXTINF:0 group-title="Israel" tvg-id="hot-israeli-cinema-il-hd" tvg-logo="https://af-play.com/storage/images/channel_logos/411dfebda2aee62ec1bb9fda2ad81633.png" tvg-rec="7" catchup-days="7",HOT Israeli Cinema HD
 #EXTGRP:Israel
 http://bethoven.af-stream.com:80/hot-israeli-cinema-il-hd/mpegts?token=3naei0f7

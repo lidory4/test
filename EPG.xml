@@ -6,9 +6,21 @@
         <group-title>Israel</group-title>
     </channel>
 
+    <channel id="IsraeliCinema.il">
+        <display-name>IL: ISRAIL CINEMA 4K ◉</display-name>
+        <icon src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6472.png?41536" />
+        <group-title>IL| HEBREW VIP HD/4K</group-title>
+    </channel>
+
     <programme start="20240827110400 +0300" stop="20240827130000 +0300" channel="hot-israeli-cinema-il-hd">
         <title lang="en">Featured Israeli Film</title>
         <desc lang="en">A special screening of an acclaimed Israeli film, showcasing the finest talents in the country's cinema industry.</desc>
+        <category>Movie</category>
+    </programme>
+
+    <programme start="20240827110400 +0300" stop="20240827130000 +0300" channel="IsraeliCinema.il">
+        <title lang="en">4K Israeli Movie Showcase</title>
+        <desc lang="en">Experience a stunning 4K presentation of a critically acclaimed Israeli film, highlighting the best in Israeli cinema.</desc>
         <category>Movie</category>
     </programme>
 </tv>

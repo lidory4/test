@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-    <channel id="humor-channel-il-hd">
-        <display-name>ערוץ ההומור</display-name>
-        <icon src="https://af-play.com/storage/images/channel_logos/7075814ec613898414e1723ceb7f389c.png" />
+    <channel id="hot-israeli-cinema-il-hd">
+        <display-name>HOT Israeli Cinema HD</display-name>
+        <icon src="https://af-play.com/storage/images/channel_logos/411dfebda2aee62ec1bb9fda2ad81633.png" />
         <group-title>Israel</group-title>
     </channel>
 
-    <programme start="20240825115200 +0300" stop="20240825121700 +0300" channel="humor-channel-il-hd">
-        <title lang="ru">כאן גרים בכיף 2 - חורף</title>
-        <desc lang="ru">בחוץ יורד מבול ויהלי מכריח את ענת לצאת איתו לצלם רקפות, דניאל בגבס ואלכס סורגת לו מחמם אייפון, עמרי משגע את יהלי שמכת ברק תהפוך אותו לגאון, הוישרים באוטו הלכו, כל המטריות בבית שבורות ולכולם יש נזלת.</desc>
-    </programme>
-
-    <programme start="20240825121700 +0300" stop="20240825124100 +0300" channel="humor-channel-il-hd">
-        <title lang="ru">כאן גרים בכיף 2 - לילה</title>
-        <desc lang="ru">קשה מאוד לישון בבית משפחת שלו. יהלי מתעקש להירדם במיטה של ההורים והורס ליאיר את הגב, לעמרי יש סיוטים מוזרים על מישהו בשם ''דינקו'', שלי מגיעה באמצע הלילה וחופרת לכולם על השיפוצניק שעזב אותה. כ' עב'.</desc>
+    <programme start="20240827110400 +0300" stop="20240827130000 +0300" channel="hot-israeli-cinema-il-hd">
+        <title lang="en">Featured Israeli Film</title>
+        <desc lang="en">A special screening of an acclaimed Israeli film, showcasing the finest talents in the country's cinema industry.</desc>
+        <category>Movie</category>
     </programme>
 </tv>
